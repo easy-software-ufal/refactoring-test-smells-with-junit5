@@ -1,0 +1,3785 @@
+-> Em todos os projetos:
+
+A Feature AfterAll se repetiu 377 vezes.
+A Feature AfterAllCallback se repetiu 1 vezes.
+A Feature AfterEach se repetiu 2059 vezes.
+A Feature AfterEachCallback se repetiu 1 vezes.
+A Feature Alphanumeric se repetiu 1 vezes.
+A Feature Arguments se repetiu 88 vezes.
+A Feature ArgumentsSource se repetiu 1 vezes.
+A Feature BeforeAll se repetiu 758 vezes.
+A Feature BeforeAllCallback se repetiu 1 vezes.
+A Feature BeforeEach se repetiu 4797 vezes.
+A Feature ConditionEvaluationResult se repetiu 5 vezes.
+A Feature ConvertWith se repetiu 1 vezes.
+A Feature CsvSource se repetiu 16 vezes.
+A Feature Disabled se repetiu 573 vezes.
+A Feature DisabledForJreRange se repetiu 7 vezes.
+A Feature DisabledIfSystemProperty se repetiu 21 vezes.
+A Feature DisabledOnJre se repetiu 11 vezes.
+A Feature DisabledOnOs se repetiu 73 vezes.
+A Feature DisplayName se repetiu 139 vezes.
+A Feature DisplayNameGeneration se repetiu 1 vezes.
+A Feature DisplayNameGenerator se repetiu 1 vezes.
+A Feature DynamicTest se repetiu 9 vezes.
+A Feature EnableRuleMigrationSupport se repetiu 44 vezes.
+A Feature EnabledForJreRange se repetiu 3 vezes.
+A Feature EnabledIfEnvironmentVariable se repetiu 5 vezes.
+A Feature EnabledIfSystemProperty se repetiu 1 vezes.
+A Feature EnabledOnJre se repetiu 13 vezes.
+A Feature EnabledOnOs se repetiu 28 vezes.
+A Feature EnumSource se repetiu 16 vezes.
+A Feature Executable se repetiu 100 vezes.
+A Feature Execution se repetiu 14 vezes.
+A Feature ExecutionCondition se repetiu 3 vezes.
+A Feature ExecutionMode se repetiu 7 vezes.
+A Feature ExtendWith se repetiu 1006 vezes.
+A Feature ExtensionConfigurationException se repetiu 3 vezes.
+A Feature ExtensionContext se repetiu 13 vezes.
+A Feature ExtensionContextException se repetiu 2 vezes.
+A Feature Lifecycle se repetiu 8 vezes.
+A Feature MethodOrderer se repetiu 86 vezes.
+A Feature MethodSource se repetiu 136 vezes.
+A Feature Nested se repetiu 233 vezes.
+A Feature NullAndEmptySource se repetiu 5 vezes.
+A Feature Order se repetiu 85 vezes.
+A Feature OrderAnnotation se repetiu 13 vezes.
+A Feature ParameterContext se repetiu 1 vezes.
+A Feature ParameterResolutionException se repetiu 2 vezes.
+A Feature ParameterResolver se repetiu 1 vezes.
+A Feature ParameterizedTest se repetiu 258 vezes.
+A Feature RegisterExtension se repetiu 1321 vezes.
+A Feature RepeatedTest se repetiu 22 vezes.
+A Feature RepetitionInfo se repetiu 1 vezes.
+A Feature ResourceLock se repetiu 46 vezes.
+A Feature Resources se repetiu 31 vezes.
+A Feature SimpleArgumentConverter se repetiu 1 vezes.
+A Feature Store se repetiu 1 vezes.
+A Feature Tag se repetiu 1497 vezes.
+A Feature TempDir se repetiu 185 vezes.
+A Feature Test se repetiu 24194 vezes.
+A Feature TestFactory se repetiu 9 vezes.
+A Feature TestInfo se repetiu 76 vezes.
+A Feature TestInstance se repetiu 134 vezes.
+A Feature TestMethodOrder se repetiu 101 vezes.
+A Feature TestReporter se repetiu 3 vezes.
+A Feature TestWatcher se repetiu 2 vezes.
+A Feature ThrowingConsumer se repetiu 1 vezes.
+A Feature ThrowingSupplier se repetiu 3 vezes.
+A Feature Timeout se repetiu 177 vezes.
+A Feature ValueSource se repetiu 106 vezes.
+A Feature assertAll se repetiu 12 vezes.
+A Feature assertArrayEquals se repetiu 348 vezes.
+A Feature assertEquals se repetiu 7126 vezes.
+A Feature assertFalse se repetiu 1479 vezes.
+A Feature assertIterableEquals se repetiu 2 vezes.
+A Feature assertLinesMatch se repetiu 3 vezes.
+A Feature assertNotEquals se repetiu 184 vezes.
+A Feature assertNotNull se repetiu 2209 vezes.
+A Feature assertNotSame se repetiu 89 vezes.
+A Feature assertNull se repetiu 874 vezes.
+A Feature assertSame se repetiu 281 vezes.
+A Feature assertThrows se repetiu 1159 vezes.
+A Feature assertTimeout se repetiu 15 vezes.
+A Feature assertTimeoutPreemptively se repetiu 22 vezes.
+A Feature assertTrue se repetiu 3444 vezes.
+A Feature assumeFalse se repetiu 29 vezes.
+A Feature assumeTrue se repetiu 86 vezes.
+A Feature assumingThat se repetiu 1 vezes.
+A Feature fail se repetiu 1266 vezes.
+
+
+A feature ParameterizedTest é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> 2.2.1 soul
+-> 5.3.5.RELEASE lettuce-core
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cas
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> jmeter
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+Isso representa 33% dos projetos analisados
+
+A feature RepeatedTest é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> cas
+-> spring-framework
+-> tutorials
+Isso representa 7% dos projetos analisados
+
+A feature TestFactory é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> spring-framework
+-> v3.3.9.RELEASE reactor-core
+Isso representa 6% dos projetos analisados
+
+A feature TestMethodOrder é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 8.3.0 skywalking
+-> camel
+-> cas
+-> debezium
+-> dubbo-2.7.8 dubbo
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.4.1 mybatis-plus
+Isso representa 16% dos projetos analisados
+
+A feature TestInstance é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 5.3.5.RELEASE lettuce-core
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Micronaut2.2.0 micronaut-core
+-> Release3.3.0-beta01 neo4j
+-> Zipkin2.22.1 zipkin
+-> camel
+-> cas
+-> java-design-patterns
+-> spring-framework
+-> tutorials
+Isso representa 15% dos projetos analisados
+
+A feature DisplayName é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.5.10(Hotfix) cryptomator
+-> GoCD20.10.0 gocd
+-> MinecraftForge
+-> camel
+-> cas
+-> spring-boot-demo
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v5.3.0 jodd
+-> vespa
+Isso representa 15% dos projetos analisados
+
+A feature DisplayNameGeneration é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature Nested é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.5.10(Hotfix) cryptomator
+-> 2.3.1 spring-boot-admin
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> dropwizard
+-> java-design-patterns
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.6.42 mockito
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+Isso representa 23% dos projetos analisados
+
+A feature Tag é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 11.0.0 jetty.project
+-> Flowable6.6.0release flowable-engine
+-> cas
+-> debezium
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> tutorials
+-> v3.3.9.RELEASE reactor-core
+Isso representa 12% dos projetos analisados
+
+A feature Timeout é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> kafka
+-> okhttp
+-> spring-framework
+-> v3.3.9.RELEASE reactor-core
+-> vespa
+-> zookeeper
+Isso representa 16% dos projetos analisados
+
+A feature ExtendWith é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 11.0.0 jetty.project
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> shiro
+-> spring-cloud-netflix
+-> spring-framework
+-> spring-petclinic
+-> tutorials
+-> v.2.0.3.RELEASE spring-cloud-alibaba
+-> v0.21.0-beta4 graylog2-server
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v2.4.0 spring-boot
+-> v3.4.1 mybatis-plus
+-> v3.6.42 mockito
+-> w2020-12-02 zaproxy
+Isso representa 42% dos projetos analisados
+
+A feature RegisterExtension é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> Release3.3.0-beta01 neo4j
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> keycloak
+-> okhttp
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.8.0 Sentinel
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+Isso representa 16% dos projetos analisados
+
+A feature TempDir é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.5.10(Hotfix) cryptomator
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> checkstyle
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> jmeter
+-> okhttp
+-> spring-framework
+-> tutorials
+-> v2.4.0 spring-boot
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 25% dos projetos analisados
+
+A feature ValueSource é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> jmeter
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> w2020-12-02 zaproxy
+Isso representa 18% dos projetos analisados
+
+A feature EnabledOnOs é implementada nos seguintes projetos:
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> v5.3.0 jodd
+Isso representa 7% dos projetos analisados
+
+A feature DisabledOnOs é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 5.3.5.RELEASE lettuce-core
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> camel
+-> dropwizard
+Isso representa 9% dos projetos analisados
+
+A feature EnabledOnJre é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> aeron
+-> dropwizard
+-> spring-framework
+-> v2.4.0 spring-boot
+Isso representa 7% dos projetos analisados
+
+A feature EnabledForJreRange é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> aeron
+Isso representa 2% dos projetos analisados
+
+A feature DisabledOnJre é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+Isso representa 2% dos projetos analisados
+
+A feature DisabledForJreRange é implementada nos seguintes projetos:
+-> spring-framework
+-> v2.4.0 spring-boot
+Isso representa 2% dos projetos analisados
+
+A feature EnabledIfSystemProperty é implementada nos seguintes projetos:
+-> 11.0.0 jetty.project
+Isso representa 1% dos projetos analisados
+
+A feature DisabledIfSystemProperty é implementada nos seguintes projetos:
+-> 11.0.0 jetty.project
+-> Flowable6.6.0release flowable-engine
+-> Release3.3.0-beta01 neo4j
+Isso representa 3% dos projetos analisados
+
+A feature EnabledIfEnvironmentVariable é implementada nos seguintes projetos:
+-> aeron
+-> camel
+Isso representa 2% dos projetos analisados
+
+A feature Order é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 8.3.0 skywalking
+-> camel
+-> cas
+-> debezium
+-> dubbo-2.7.8 dubbo
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.5.0 bisq
+-> v3.4.1 mybatis-plus
+Isso representa 15% dos projetos analisados
+
+A feature EnumSource é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> camel
+-> v3.3.9.RELEASE reactor-core
+Isso representa 6% dos projetos analisados
+
+A feature MethodSource é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 2.2.1 soul
+-> 5.3.5.RELEASE lettuce-core
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cas
+-> dropwizard
+-> jmeter
+-> spring-framework
+-> v0.21.0-beta4 graylog2-server
+-> v1.4.0 seata
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+Isso representa 28% dos projetos analisados
+
+A feature CsvSource é implementada nos seguintes projetos:
+-> 1.5.10(Hotfix) cryptomator
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> dubbo-2.7.8 dubbo
+-> jmeter
+-> spring-framework
+-> v0.21.0-beta4 graylog2-server
+-> v3.3.9.RELEASE reactor-core
+-> v5.3.0 jodd
+Isso representa 11% dos projetos analisados
+
+A feature ArgumentsSource é implementada nos seguintes projetos:
+-> 11.0.0 jetty.project
+Isso representa 1% dos projetos analisados
+
+A feature ResourceLock é implementada nos seguintes projetos:
+-> Release3.3.0-beta01 neo4j
+-> cas
+Isso representa 2% dos projetos analisados
+
+A feature assertAll é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 2.269 jenkins
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+Isso representa 5% dos projetos analisados
+
+A feature assertThrows é implementada nos seguintes projetos:
+-> 0.3.48 data-transfer-project
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 8.3.0 skywalking
+-> Beam2.25.0release beam
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Micronaut2.2.0 micronaut-core
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cucumber-gherkin
+-> dubbo-2.7.8 dubbo
+-> hive
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> spring-boot-demo
+-> spring-data-examples
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.5.0 bisq
+-> v3.3.9.RELEASE reactor-core
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 49% dos projetos analisados
+
+A feature assertTimeout é implementada nos seguintes projetos:
+-> 11.0.0 jetty.project
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> tutorials
+Isso representa 6% dos projetos analisados
+
+A feature assertTimeoutPreemptively é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> tutorials
+Isso representa 6% dos projetos analisados
+
+A feature assumingThat é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature AfterAll é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> 8.3.0 skywalking
+-> Flowable6.6.0release flowable-engine
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> camel
+-> cas
+-> debezium
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hive
+-> jsoup1.13.1 jsoup
+-> mybatis-3.5.6 mybatis-3
+-> spring-data-examples
+-> spring-framework
+-> tutorials
+-> v1.2.0 jadx
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v3.6.42 mockito
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 41% dos projetos analisados
+
+A feature AfterAllCallback é implementada nos seguintes projetos:
+-> 1.15.0 testcontainers-java
+Isso representa 1% dos projetos analisados
+
+A feature AfterEach é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.4.2 halo
+-> 11.0.0 jetty.project
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> spring-boot-starter
+-> spring-framework
+-> tutorials
+-> v1.4.0 seata
+-> v1.8.0 Sentinel
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 45% dos projetos analisados
+
+A feature AfterEachCallback é implementada nos seguintes projetos:
+-> okhttp
+Isso representa 1% dos projetos analisados
+
+A feature Alphanumeric é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature Arguments é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cas
+-> dropwizard
+-> jmeter
+-> spring-framework
+-> v0.21.0-beta4 graylog2-server
+-> v1.4.0 seata
+-> v2.4.0 spring-boot
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+Isso representa 24% dos projetos analisados
+
+A feature assertArrayEquals é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> camel
+-> checkstyle
+-> cucumber-gherkin
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> tutorials
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v5.3.0 jodd
+-> vespa
+-> zookeeper
+Isso representa 28% dos projetos analisados
+
+A feature assertEquals é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> Micronaut2.2.0 micronaut-core
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> XXL-JOBv2.2.0ï¼Œåˆ†å¸ƒå¼?ä»»åŠ¡è°ƒåº¦å¹³å?° xxl-job
+-> aeron
+-> aws-doc-sdk-examples
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> karate
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> shiro
+-> spring-boot-demo
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v3.4.1 mybatis-plus
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 54% dos projetos analisados
+
+A feature assertFalse é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 42% dos projetos analisados
+
+A feature assertIterableEquals é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature assertLinesMatch é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature assertNotEquals é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> java-design-patterns
+-> kafka
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.5.0 bisq
+-> v5.3.0 jodd
+-> zookeeper
+Isso representa 27% dos projetos analisados
+
+A feature assertNotNull é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> aws-doc-sdk-examples
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> debezium
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> java-design-patterns
+-> jmeter
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> spring-boot-demo
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.5.0 bisq
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 41% dos projetos analisados
+
+A feature assertNotSame é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> camel
+-> checkstyle
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> okhttp
+-> v5.3.0 jodd
+-> zookeeper
+Isso representa 12% dos projetos analisados
+
+A feature assertNull é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> camel
+-> checkstyle
+-> cucumber-gherkin
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v3.4.1 mybatis-plus
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 33% dos projetos analisados
+
+A feature assertSame é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> aeron
+-> camel
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> kafka
+-> okhttp
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v5.3.0 jodd
+-> vespa
+-> zookeeper
+Isso representa 27% dos projetos analisados
+
+A feature assertTrue é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 8.3.0 skywalking
+-> GoCD20.10.0 gocd
+-> Micronaut2.2.0 micronaut-core
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> XXL-JOBv2.2.0ï¼Œåˆ†å¸ƒå¼?ä»»åŠ¡è°ƒåº¦å¹³å?° xxl-job
+-> aeron
+-> aws-doc-sdk-examples
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> debezium
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v5.3.0 jodd
+-> v5.x.last tx-lcn
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 55% dos projetos analisados
+
+A feature assumeFalse é implementada nos seguintes projetos:
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> dropwizard
+-> okhttp
+-> tutorials
+Isso representa 10% dos projetos analisados
+
+A feature assumeTrue é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 11.0.0 jetty.project
+-> 5.3.5.RELEASE lettuce-core
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> aeron
+-> camel
+-> checkstyle
+-> dropwizard
+-> java-design-patterns
+-> kafka
+-> okhttp
+-> spring-framework
+-> tutorials
+-> v5.3.0 jodd
+-> w2020-12-02 zaproxy
+Isso representa 20% dos projetos analisados
+
+A feature BeforeAll é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> 8.3.0 skywalking
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> camel
+-> cas
+-> checkstyle
+-> debezium
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hive
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> mybatis-3.5.6 mybatis-3
+-> spring-framework
+-> tutorials
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v3.6.42 mockito
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 49% dos projetos analisados
+
+A feature BeforeAllCallback é implementada nos seguintes projetos:
+-> v2.4.0 spring-boot
+Isso representa 1% dos projetos analisados
+
+A feature BeforeEach é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> 8.3.0 skywalking
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> XXL-JOBv2.2.0ï¼Œåˆ†å¸ƒå¼?ä»»åŠ¡è°ƒåº¦å¹³å?° xxl-job
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> spring-boot-demo
+-> spring-boot-starter
+-> spring-framework
+-> spring-petclinic
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v1.8.0 Sentinel
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v5.3.0 jodd
+-> v5.x.last tx-lcn
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 66% dos projetos analisados
+
+A feature ConditionEvaluationResult é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> Release3.3.0-beta01 neo4j
+-> spring-framework
+Isso representa 5% dos projetos analisados
+
+A feature ConvertWith é implementada nos seguintes projetos:
+-> v5.3.0 jodd
+Isso representa 1% dos projetos analisados
+
+A feature Disabled é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> 5.3.5.RELEASE lettuce-core
+-> Flowable6.6.0release flowable-engine
+-> Release3.3.0-beta01 neo4j
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> camel
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> spring-boot-starter
+-> spring-framework
+-> spring-petclinic
+-> tutorials
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 41% dos projetos analisados
+
+A feature DisplayNameGenerator é implementada nos seguintes projetos:
+-> tutorials
+Isso representa 1% dos projetos analisados
+
+A feature DynamicTest é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> spring-framework
+-> v3.3.9.RELEASE reactor-core
+Isso representa 6% dos projetos analisados
+
+A feature EnableRuleMigrationSupport é implementada nos seguintes projetos:
+-> GoCD20.10.0 gocd
+-> java-design-patterns
+-> tutorials
+Isso representa 3% dos projetos analisados
+
+A feature Executable é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> Micronaut2.2.0 micronaut-core
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> cas
+-> cucumber-gherkin
+-> java-design-patterns
+-> jmeter
+-> netty
+-> spring-framework
+-> tutorials
+Isso representa 19% dos projetos analisados
+
+A feature Execution é implementada nos seguintes projetos:
+-> 2.269 jenkins
+-> Release3.3.0-beta01 neo4j
+-> cas
+-> jmeter
+Isso representa 5% dos projetos analisados
+
+A feature ExecutionCondition é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> Release3.3.0-beta01 neo4j
+Isso representa 2% dos projetos analisados
+
+A feature ExecutionMode é implementada nos seguintes projetos:
+-> 2.269 jenkins
+-> cas
+-> jmeter
+Isso representa 3% dos projetos analisados
+
+A feature ExtensionConfigurationException é implementada nos seguintes projetos:
+-> Release3.3.0-beta01 neo4j
+Isso representa 1% dos projetos analisados
+
+A feature ExtensionContext é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> Release3.3.0-beta01 neo4j
+-> aeron
+-> camel
+-> spring-framework
+-> v2.4.0 spring-boot
+Isso representa 9% dos projetos analisados
+
+A feature ExtensionContextException é implementada nos seguintes projetos:
+-> Release3.3.0-beta01 neo4j
+Isso representa 1% dos projetos analisados
+
+A feature fail é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> GoCD20.10.0 gocd
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> checkstyle
+-> cucumber-gherkin
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> java-design-patterns
+-> jsoup1.13.1 jsoup
+-> kafka
+-> mybatis-3.5.6 mybatis-3
+-> okhttp
+-> spring-framework
+-> tutorials
+-> v1.2.0 jadx
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v5.3.0 jodd
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 40% dos projetos analisados
+
+A feature Lifecycle é implementada nos seguintes projetos:
+-> camel
+-> java-design-patterns
+-> spring-framework
+-> tutorials
+Isso representa 5% dos projetos analisados
+
+A feature MethodOrderer é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 8.3.0 skywalking
+-> camel
+-> cas
+-> debezium
+-> dubbo-2.7.8 dubbo
+-> spring-framework
+-> tutorials
+-> v0.21.0-beta4 graylog2-server
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.4.1 mybatis-plus
+Isso representa 16% dos projetos analisados
+
+A feature NullAndEmptySource é implementada nos seguintes projetos:
+-> w2020-12-02 zaproxy
+Isso representa 1% dos projetos analisados
+
+A feature OrderAnnotation é implementada nos seguintes projetos:
+-> 1.15.0 testcontainers-java
+-> camel
+-> tutorials
+-> v1.5.0 bisq
+Isso representa 5% dos projetos analisados
+
+A feature ParameterContext é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+Isso representa 1% dos projetos analisados
+
+A feature ParameterResolutionException é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+-> spring-framework
+Isso representa 2% dos projetos analisados
+
+A feature ParameterResolver é implementada nos seguintes projetos:
+-> 1.10.2.Final quarkus
+Isso representa 1% dos projetos analisados
+
+A feature RepetitionInfo é implementada nos seguintes projetos:
+-> cas
+Isso representa 1% dos projetos analisados
+
+A feature Resources é implementada nos seguintes projetos:
+-> Release3.3.0-beta01 neo4j
+Isso representa 1% dos projetos analisados
+
+A feature SimpleArgumentConverter é implementada nos seguintes projetos:
+-> v5.3.0 jodd
+Isso representa 1% dos projetos analisados
+
+A feature Store é implementada nos seguintes projetos:
+-> spring-framework
+Isso representa 1% dos projetos analisados
+
+A feature Test é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 1.10.2.Final quarkus
+-> 1.15.0 testcontainers-java
+-> 1.4.2 halo
+-> 1.5.10 opengrok
+-> 1.5.10(Hotfix) cryptomator
+-> 11.0.0 jetty.project
+-> 2.269 jenkins
+-> 2.3.1 spring-boot-admin
+-> 5.3.5.RELEASE lettuce-core
+-> 8.3.0 skywalking
+-> Activiti
+-> Flowable6.6.0release flowable-engine
+-> GoCD20.10.0 gocd
+-> InternetArchitect
+-> Micronaut2.2.0 micronaut-core
+-> MinecraftForge
+-> MyBatisGeneratorRelease1.4.0 generator
+-> Release3.3.0-beta01 neo4j
+-> Release3.3.11 disruptor
+-> Releasejavaparser-parent-3.18.0 javaparser
+-> XXL-JOBv2.2.0ï¼Œåˆ†å¸ƒå¼?ä»»åŠ¡è°ƒåº¦å¹³å?° xxl-job
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> arthas
+-> aws-doc-sdk-examples
+-> camel
+-> cas
+-> checkstyle
+-> cucumber-gherkin
+-> debezium
+-> dropwizard
+-> dubbo-2.7.8 dubbo
+-> hadoop
+-> ignite
+-> java-design-patterns
+-> jmeter
+-> jsoup1.13.1 jsoup
+-> kafka
+-> karate
+-> keycloak
+-> mybatis-3.5.6 mybatis-3
+-> netty
+-> okhttp
+-> shiro
+-> spring-boot-demo
+-> spring-boot-starter
+-> spring-cloud-netflix
+-> spring-data-examples
+-> spring-framework
+-> spring-petclinic
+-> springboot-guide
+-> tutorials
+-> v.2.0.3.RELEASE spring-cloud-alibaba
+-> v0.21.0-beta4 graylog2-server
+-> v1.2.0 jadx
+-> v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+-> v1.4.0 seata
+-> v1.5.0 bisq
+-> v1.8.0 Sentinel
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> v3.6.42 mockito
+-> v5.1.0 FlexibleAdapter
+-> v5.3.0 jodd
+-> v5.x.last tx-lcn
+-> vespa
+-> w2020-12-02 zaproxy
+-> zookeeper
+Isso representa 90% dos projetos analisados
+
+A feature TestInfo é implementada nos seguintes projetos:
+-> 0.5.2 janusgraph
+-> 11.0.0 jetty.project
+-> Release3.3.0-beta01 neo4j
+-> Zipkin2.22.1 zipkin
+-> aeron
+-> camel
+-> dubbo-2.7.8 dubbo
+-> spring-framework
+-> v1.5.0 bisq
+-> v2.4.0 spring-boot
+-> v3.3.9.RELEASE reactor-core
+-> v3.4.1 mybatis-plus
+-> zookeeper
+Isso representa 16% dos projetos analisados
+
+A feature TestReporter é implementada nos seguintes projetos:
+-> camel
+-> spring-framework
+Isso representa 2% dos projetos analisados
+
+A feature TestWatcher é implementada nos seguintes projetos:
+-> aeron
+Isso representa 1% dos projetos analisados
+
+A feature ThrowingConsumer é implementada nos seguintes projetos:
+-> v2.4.0 spring-boot
+Isso representa 1% dos projetos analisados
+
+A feature ThrowingSupplier é implementada nos seguintes projetos:
+-> Release3.3.0-beta01 neo4j
+-> cas
+Isso representa 2% dos projetos analisados
+
+
+* Em referência à listagem de Features implementadas por projeto
+
+-> O projeto: 0.3.48 data-transfer-project
+
+A Feature: assertThrows se repete 3 vezes
+
+1 Features aparecem 3 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 100 %
+
+-> O projeto: 0.5.2 janusgraph
+
+A Feature: ParameterizedTest se repete 5 vezes
+A Feature: Tag se repete 6 vezes
+A Feature: ExtendWith se repete 8 vezes
+A Feature: TempDir se repete 2 vezes
+A Feature: MethodSource se repete 5 vezes
+A Feature: assertThrows se repete 10 vezes
+A Feature: assertTimeoutPreemptively se repete 1 vezes
+A Feature: AfterAll se repete 8 vezes
+A Feature: AfterEach se repete 20 vezes
+A Feature: Arguments se repete 2 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 48 vezes
+A Feature: assertFalse se repete 18 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 11 vezes
+A Feature: assertNull se repete 2 vezes
+A Feature: assertTrue se repete 29 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeAll se repete 10 vezes
+A Feature: BeforeEach se repete 25 vezes
+A Feature: Disabled se repete 5 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: fail se repete 3 vezes
+A Feature: Test se repete 144 vezes
+A Feature: TestInfo se repete 6 vezes
+
+25 Features aparecem 372 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: Tag é 1 %
+A porcentagem da Feature: ExtendWith é 2 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: MethodSource é 1 %
+A porcentagem da Feature: assertThrows é 2 %
+A porcentagem da Feature: assertTimeoutPreemptively é 0 %
+A porcentagem da Feature: AfterAll é 2 %
+A porcentagem da Feature: AfterEach é 5 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 12 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 7 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 6 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 38 %
+A porcentagem da Feature: TestInfo é 1 %
+
+-> O projeto: 1.10.2.Final quarkus
+
+A Feature: ParameterizedTest se repete 9 vezes
+A Feature: RepeatedTest se repete 3 vezes
+A Feature: TestFactory se repete 1 vezes
+A Feature: TestMethodOrder se repete 7 vezes
+A Feature: TestInstance se repete 4 vezes
+A Feature: DisplayName se repete 79 vezes
+A Feature: Nested se repete 1 vezes
+A Feature: Timeout se repete 5 vezes
+A Feature: ExtendWith se repete 4 vezes
+A Feature: RegisterExtension se repete 1099 vezes
+A Feature: TempDir se repete 4 vezes
+A Feature: ValueSource se repete 5 vezes
+A Feature: DisabledOnOs se repete 17 vezes
+A Feature: EnabledOnJre se repete 1 vezes
+A Feature: EnabledForJreRange se repete 1 vezes
+A Feature: DisabledOnJre se repete 3 vezes
+A Feature: Order se repete 11 vezes
+A Feature: EnumSource se repete 1 vezes
+A Feature: MethodSource se repete 4 vezes
+A Feature: assertAll se repete 1 vezes
+A Feature: assertThrows se repete 20 vezes
+A Feature: AfterAll se repete 50 vezes
+A Feature: AfterEach se repete 63 vezes
+A Feature: Arguments se repete 4 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 389 vezes
+A Feature: assertFalse se repete 83 vezes
+A Feature: assertNotEquals se repete 14 vezes
+A Feature: assertNotNull se repete 102 vezes
+A Feature: assertNotSame se repete 2 vezes
+A Feature: assertNull se repete 26 vezes
+A Feature: assertSame se repete 4 vezes
+A Feature: assertTrue se repete 211 vezes
+A Feature: BeforeAll se repete 73 vezes
+A Feature: BeforeEach se repete 85 vezes
+A Feature: ConditionEvaluationResult se repete 1 vezes
+A Feature: Disabled se repete 7 vezes
+A Feature: DynamicTest se repete 1 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: ExecutionCondition se repete 1 vezes
+A Feature: ExtensionContext se repete 2 vezes
+A Feature: fail se repete 94 vezes
+A Feature: MethodOrderer se repete 7 vezes
+A Feature: ParameterContext se repete 1 vezes
+A Feature: ParameterResolutionException se repete 1 vezes
+A Feature: ParameterResolver se repete 1 vezes
+A Feature: Test se repete 1704 vezes
+
+47 Features aparecem 4208 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestFactory é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 1 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: RegisterExtension é 26 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: EnabledForJreRange é 0 %
+A porcentagem da Feature: DisabledOnJre é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: EnumSource é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertAll é 0 %
+A porcentagem da Feature: assertThrows é 0 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 9 %
+A porcentagem da Feature: assertFalse é 1 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 5 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 2 %
+A porcentagem da Feature: ConditionEvaluationResult é 0 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: DynamicTest é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: ExecutionCondition é 0 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: fail é 2 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: ParameterContext é 0 %
+A porcentagem da Feature: ParameterResolutionException é 0 %
+A porcentagem da Feature: ParameterResolver é 0 %
+A porcentagem da Feature: Test é 40 %
+
+-> O projeto: 1.15.0 testcontainers-java
+
+A Feature: TestMethodOrder se repete 2 vezes
+A Feature: Nested se repete 2 vezes
+A Feature: ExtendWith se repete 1 vezes
+A Feature: Order se repete 2 vezes
+A Feature: AfterAllCallback se repete 1 vezes
+A Feature: assertEquals se repete 6 vezes
+A Feature: assertFalse se repete 1 vezes
+A Feature: assertNotEquals se repete 2 vezes
+A Feature: assertTrue se repete 5 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 4 vezes
+A Feature: ConditionEvaluationResult se repete 1 vezes
+A Feature: Disabled se repete 2 vezes
+A Feature: ExtensionContext se repete 2 vezes
+A Feature: MethodOrderer se repete 1 vezes
+A Feature: OrderAnnotation se repete 1 vezes
+A Feature: Test se repete 14 vezes
+
+17 Features aparecem 49 vezes nesse projeto
+A porcentagem da Feature: TestMethodOrder é 4 %
+A porcentagem da Feature: Nested é 4 %
+A porcentagem da Feature: ExtendWith é 2 %
+A porcentagem da Feature: Order é 4 %
+A porcentagem da Feature: AfterAllCallback é 2 %
+A porcentagem da Feature: assertEquals é 12 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotEquals é 4 %
+A porcentagem da Feature: assertTrue é 10 %
+A porcentagem da Feature: BeforeAll é 4 %
+A porcentagem da Feature: BeforeEach é 8 %
+A porcentagem da Feature: ConditionEvaluationResult é 2 %
+A porcentagem da Feature: Disabled é 4 %
+A porcentagem da Feature: ExtensionContext é 4 %
+A porcentagem da Feature: MethodOrderer é 2 %
+A porcentagem da Feature: OrderAnnotation é 2 %
+A porcentagem da Feature: Test é 28 %
+
+-> O projeto: 1.4.2 halo
+
+A Feature: assertThrows se repete 3 vezes
+A Feature: AfterEach se repete 1 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 15 vezes
+A Feature: assertFalse se repete 3 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: assertNull se repete 3 vezes
+A Feature: assertTrue se repete 5 vezes
+A Feature: BeforeEach se repete 3 vezes
+A Feature: Disabled se repete 6 vezes
+A Feature: Test se repete 44 vezes
+
+11 Features aparecem 87 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 3 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: assertArrayEquals é 1 %
+A porcentagem da Feature: assertEquals é 17 %
+A porcentagem da Feature: assertFalse é 3 %
+A porcentagem da Feature: assertNotNull é 3 %
+A porcentagem da Feature: assertNull é 3 %
+A porcentagem da Feature: assertTrue é 5 %
+A porcentagem da Feature: BeforeEach é 3 %
+A porcentagem da Feature: Disabled é 6 %
+A porcentagem da Feature: Test é 50 %
+
+-> O projeto: 1.5.10 opengrok
+
+A Feature: assertThrows se repete 2 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 4 vezes
+A Feature: assertFalse se repete 3 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertNull se repete 3 vezes
+A Feature: assertTrue se repete 7 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Test se repete 1 vezes
+
+9 Features aparecem 23 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 8 %
+A porcentagem da Feature: assertArrayEquals é 4 %
+A porcentagem da Feature: assertEquals é 17 %
+A porcentagem da Feature: assertFalse é 13 %
+A porcentagem da Feature: assertNotNull é 4 %
+A porcentagem da Feature: assertNull é 13 %
+A porcentagem da Feature: assertTrue é 30 %
+A porcentagem da Feature: BeforeEach é 4 %
+A porcentagem da Feature: Test é 4 %
+
+-> O projeto: 1.5.10(Hotfix) cryptomator
+
+A Feature: ParameterizedTest se repete 3 vezes
+A Feature: DisplayName se repete 7 vezes
+A Feature: Nested se repete 4 vezes
+A Feature: TempDir se repete 3 vezes
+A Feature: ValueSource se repete 2 vezes
+A Feature: EnabledOnOs se repete 1 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: BeforeAll se repete 3 vezes
+A Feature: BeforeEach se repete 5 vezes
+A Feature: Disabled se repete 1 vezes
+A Feature: Test se repete 16 vezes
+
+11 Features aparecem 46 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 6 %
+A porcentagem da Feature: DisplayName é 15 %
+A porcentagem da Feature: Nested é 8 %
+A porcentagem da Feature: TempDir é 6 %
+A porcentagem da Feature: ValueSource é 4 %
+A porcentagem da Feature: EnabledOnOs é 2 %
+A porcentagem da Feature: CsvSource é 2 %
+A porcentagem da Feature: BeforeAll é 6 %
+A porcentagem da Feature: BeforeEach é 10 %
+A porcentagem da Feature: Disabled é 2 %
+A porcentagem da Feature: Test é 34 %
+
+-> O projeto: 11.0.0 jetty.project
+
+A Feature: ParameterizedTest se repete 38 vezes
+A Feature: RepeatedTest se repete 1 vezes
+A Feature: TestFactory se repete 1 vezes
+A Feature: Tag se repete 16 vezes
+A Feature: ExtendWith se repete 57 vezes
+A Feature: ValueSource se repete 17 vezes
+A Feature: EnabledOnOs se repete 3 vezes
+A Feature: DisabledOnOs se repete 10 vezes
+A Feature: EnabledOnJre se repete 5 vezes
+A Feature: DisabledOnJre se repete 8 vezes
+A Feature: EnabledIfSystemProperty se repete 1 vezes
+A Feature: DisabledIfSystemProperty se repete 9 vezes
+A Feature: MethodSource se repete 27 vezes
+A Feature: ArgumentsSource se repete 1 vezes
+A Feature: assertThrows se repete 130 vezes
+A Feature: assertTimeout se repete 4 vezes
+A Feature: assertTimeoutPreemptively se repete 6 vezes
+A Feature: AfterAll se repete 46 vezes
+A Feature: AfterEach se repete 277 vezes
+A Feature: Arguments se repete 18 vezes
+A Feature: assertArrayEquals se repete 18 vezes
+A Feature: assertEquals se repete 328 vezes
+A Feature: assertFalse se repete 153 vezes
+A Feature: assertNotEquals se repete 8 vezes
+A Feature: assertNotNull se repete 144 vezes
+A Feature: assertNotSame se repete 7 vezes
+A Feature: assertNull se repete 97 vezes
+A Feature: assertSame se repete 15 vezes
+A Feature: assertTrue se repete 328 vezes
+A Feature: assumeFalse se repete 1 vezes
+A Feature: assumeTrue se repete 16 vezes
+A Feature: BeforeAll se repete 51 vezes
+A Feature: BeforeEach se repete 263 vezes
+A Feature: Disabled se repete 41 vezes
+A Feature: DynamicTest se repete 1 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: fail se repete 51 vezes
+A Feature: Test se repete 695 vezes
+A Feature: TestInfo se repete 3 vezes
+
+39 Features aparecem 2896 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestFactory é 0 %
+A porcentagem da Feature: Tag é 0 %
+A porcentagem da Feature: ExtendWith é 1 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: EnabledOnOs é 0 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: DisabledOnJre é 0 %
+A porcentagem da Feature: EnabledIfSystemProperty é 0 %
+A porcentagem da Feature: DisabledIfSystemProperty é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: ArgumentsSource é 0 %
+A porcentagem da Feature: assertThrows é 4 %
+A porcentagem da Feature: assertTimeout é 0 %
+A porcentagem da Feature: assertTimeoutPreemptively é 0 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 9 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 11 %
+A porcentagem da Feature: assertFalse é 5 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 4 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 3 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 11 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 9 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: DynamicTest é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: fail é 1 %
+A porcentagem da Feature: Test é 23 %
+A porcentagem da Feature: TestInfo é 0 %
+
+-> O projeto: 2.2.1 soul
+
+A Feature: ParameterizedTest se repete 1 vezes
+A Feature: MethodSource se repete 1 vezes
+
+2 Features aparecem 2 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 50 %
+A porcentagem da Feature: MethodSource é 50 %
+
+-> O projeto: 2.269 jenkins
+
+A Feature: TempDir se repete 1 vezes
+A Feature: assertAll se repete 1 vezes
+A Feature: assertThrows se repete 2 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: assertEquals se repete 12 vezes
+A Feature: assertFalse se repete 3 vezes
+A Feature: assertNotNull se repete 2 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 6 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: Execution se repete 2 vezes
+A Feature: ExecutionMode se repete 2 vezes
+A Feature: fail se repete 3 vezes
+A Feature: Test se repete 21 vezes
+
+17 Features aparecem 61 vezes nesse projeto
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: assertAll é 1 %
+A porcentagem da Feature: assertThrows é 3 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: assertEquals é 19 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotNull é 3 %
+A porcentagem da Feature: assertNull é 1 %
+A porcentagem da Feature: assertSame é 1 %
+A porcentagem da Feature: assertTrue é 9 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: Executable é 1 %
+A porcentagem da Feature: Execution é 3 %
+A porcentagem da Feature: ExecutionMode é 3 %
+A porcentagem da Feature: fail é 4 %
+A porcentagem da Feature: Test é 34 %
+
+-> O projeto: 2.3.1 spring-boot-admin
+
+A Feature: Nested se repete 2 vezes
+A Feature: ExtendWith se repete 6 vezes
+A Feature: AfterAll se repete 4 vezes
+A Feature: AfterEach se repete 12 vezes
+A Feature: BeforeAll se repete 4 vezes
+A Feature: BeforeEach se repete 44 vezes
+A Feature: Test se repete 106 vezes
+
+7 Features aparecem 178 vezes nesse projeto
+A porcentagem da Feature: Nested é 1 %
+A porcentagem da Feature: ExtendWith é 3 %
+A porcentagem da Feature: AfterAll é 2 %
+A porcentagem da Feature: AfterEach é 6 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 24 %
+A porcentagem da Feature: Test é 59 %
+
+-> O projeto: 5.3.5.RELEASE lettuce-core
+
+A Feature: ParameterizedTest se repete 1 vezes
+A Feature: TestInstance se repete 24 vezes
+A Feature: ExtendWith se repete 99 vezes
+A Feature: DisabledOnOs se repete 1 vezes
+A Feature: MethodSource se repete 1 vezes
+A Feature: AfterAll se repete 11 vezes
+A Feature: AfterEach se repete 24 vezes
+A Feature: assumeTrue se repete 11 vezes
+A Feature: BeforeAll se repete 13 vezes
+A Feature: BeforeEach se repete 79 vezes
+A Feature: Disabled se repete 9 vezes
+A Feature: Test se repete 227 vezes
+
+12 Features aparecem 500 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestInstance é 4 %
+A porcentagem da Feature: ExtendWith é 19 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: AfterAll é 2 %
+A porcentagem da Feature: AfterEach é 4 %
+A porcentagem da Feature: assumeTrue é 2 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 15 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: Test é 45 %
+
+-> O projeto: 6.0Build121 Mindustry
+
+
+0 Features aparecem 0 vezes nesse projeto
+
+-> O projeto: 8.3.0 skywalking
+
+A Feature: TestMethodOrder se repete 2 vezes
+A Feature: Order se repete 2 vezes
+A Feature: assertThrows se repete 4 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeAll se repete 4 vezes
+A Feature: BeforeEach se repete 3 vezes
+A Feature: MethodOrderer se repete 2 vezes
+A Feature: Test se repete 8 vezes
+
+9 Features aparecem 27 vezes nesse projeto
+A porcentagem da Feature: TestMethodOrder é 7 %
+A porcentagem da Feature: Order é 7 %
+A porcentagem da Feature: assertThrows é 14 %
+A porcentagem da Feature: AfterAll é 3 %
+A porcentagem da Feature: assertTrue é 3 %
+A porcentagem da Feature: BeforeAll é 14 %
+A porcentagem da Feature: BeforeEach é 11 %
+A porcentagem da Feature: MethodOrderer é 7 %
+A porcentagem da Feature: Test é 29 %
+
+-> O projeto: Activiti
+
+A Feature: ParameterizedTest se repete 2 vezes
+A Feature: MethodSource se repete 2 vezes
+A Feature: AfterEach se repete 60 vezes
+A Feature: Arguments se repete 2 vezes
+A Feature: BeforeEach se repete 84 vezes
+A Feature: Test se repete 241 vezes
+
+6 Features aparecem 391 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: AfterEach é 15 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: BeforeEach é 21 %
+A porcentagem da Feature: Test é 61 %
+
+-> O projeto: Beam2.25.0release beam
+
+A Feature: assertThrows se repete 1 vezes
+
+1 Features aparecem 1 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 100 %
+
+-> O projeto: Flowable6.6.0release flowable-engine
+
+A Feature: ParameterizedTest se repete 3 vezes
+A Feature: TestInstance se repete 5 vezes
+A Feature: Tag se repete 26 vezes
+A Feature: ExtendWith se repete 11 vezes
+A Feature: ValueSource se repete 1 vezes
+A Feature: EnabledOnOs se repete 1 vezes
+A Feature: DisabledIfSystemProperty se repete 11 vezes
+A Feature: MethodSource se repete 2 vezes
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: AfterEach se repete 157 vezes
+A Feature: Arguments se repete 2 vezes
+A Feature: BeforeEach se repete 165 vezes
+A Feature: Disabled se repete 5 vezes
+A Feature: Test se repete 620 vezes
+
+15 Features aparecem 1011 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: Tag é 2 %
+A porcentagem da Feature: ExtendWith é 1 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: EnabledOnOs é 0 %
+A porcentagem da Feature: DisabledIfSystemProperty é 1 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertThrows é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 15 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: BeforeEach é 16 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: Test é 61 %
+
+-> O projeto: GoCD20.10.0 gocd
+
+A Feature: ParameterizedTest se repete 19 vezes
+A Feature: TestInstance se repete 2 vezes
+A Feature: DisplayName se repete 4 vezes
+A Feature: Nested se repete 132 vezes
+A Feature: Timeout se repete 1 vezes
+A Feature: ExtendWith se repete 6 vezes
+A Feature: TempDir se repete 15 vezes
+A Feature: ValueSource se repete 13 vezes
+A Feature: EnabledOnOs se repete 11 vezes
+A Feature: DisabledOnOs se repete 15 vezes
+A Feature: MethodSource se repete 5 vezes
+A Feature: assertThrows se repete 18 vezes
+A Feature: AfterEach se repete 60 vezes
+A Feature: Arguments se repete 4 vezes
+A Feature: assertEquals se repete 5 vezes
+A Feature: assertFalse se repete 4 vezes
+A Feature: assertNull se repete 3 vezes
+A Feature: assertTrue se repete 10 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: BeforeEach se repete 220 vezes
+A Feature: EnableRuleMigrationSupport se repete 41 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 341 vezes
+
+24 Features aparecem 932 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 2 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 0 %
+A porcentagem da Feature: Nested é 14 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: ValueSource é 1 %
+A porcentagem da Feature: EnabledOnOs é 1 %
+A porcentagem da Feature: DisabledOnOs é 1 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterEach é 6 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 0 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 1 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 23 %
+A porcentagem da Feature: EnableRuleMigrationSupport é 4 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 36 %
+
+-> O projeto: InternetArchitect
+
+A Feature: Test se repete 31 vezes
+
+1 Features aparecem 31 vezes nesse projeto
+A porcentagem da Feature: Test é 100 %
+
+-> O projeto: Micronaut2.2.0 micronaut-core
+
+A Feature: TestInstance se repete 1 vezes
+A Feature: assertThrows se repete 1 vezes
+A Feature: assertEquals se repete 6 vezes
+A Feature: assertTrue se repete 3 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: Test se repete 17 vezes
+
+6 Features aparecem 29 vezes nesse projeto
+A porcentagem da Feature: TestInstance é 3 %
+A porcentagem da Feature: assertThrows é 3 %
+A porcentagem da Feature: assertEquals é 20 %
+A porcentagem da Feature: assertTrue é 10 %
+A porcentagem da Feature: Executable é 3 %
+A porcentagem da Feature: Test é 58 %
+
+-> O projeto: MinecraftForge
+
+A Feature: DisplayName se repete 1 vezes
+A Feature: Test se repete 2 vezes
+
+2 Features aparecem 3 vezes nesse projeto
+A porcentagem da Feature: DisplayName é 33 %
+A porcentagem da Feature: Test é 66 %
+
+-> O projeto: MyBatisGeneratorRelease1.4.0 generator
+
+A Feature: assertThrows se repete 1 vezes
+A Feature: assertEquals se repete 3 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertTrue se repete 3 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 62 vezes
+
+8 Features aparecem 74 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: assertEquals é 4 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNull é 1 %
+A porcentagem da Feature: assertTrue é 4 %
+A porcentagem da Feature: fail é 1 %
+A porcentagem da Feature: Test é 83 %
+
+-> O projeto: Release3.3.0-beta01 neo4j
+
+A Feature: ParameterizedTest se repete 55 vezes
+A Feature: RepeatedTest se repete 15 vezes
+A Feature: TestFactory se repete 5 vezes
+A Feature: TestInstance se repete 13 vezes
+A Feature: Nested se repete 25 vezes
+A Feature: Timeout se repete 16 vezes
+A Feature: ExtendWith se repete 200 vezes
+A Feature: RegisterExtension se repete 23 vezes
+A Feature: TempDir se repete 1 vezes
+A Feature: ValueSource se repete 12 vezes
+A Feature: EnabledOnOs se repete 11 vezes
+A Feature: DisabledOnOs se repete 14 vezes
+A Feature: DisabledIfSystemProperty se repete 1 vezes
+A Feature: EnumSource se repete 5 vezes
+A Feature: MethodSource se repete 35 vezes
+A Feature: CsvSource se repete 4 vezes
+A Feature: ResourceLock se repete 40 vezes
+A Feature: assertThrows se repete 421 vezes
+A Feature: assertTimeoutPreemptively se repete 12 vezes
+A Feature: AfterAll se repete 17 vezes
+A Feature: AfterEach se repete 206 vezes
+A Feature: Arguments se repete 15 vezes
+A Feature: assertArrayEquals se repete 75 vezes
+A Feature: assertEquals se repete 822 vezes
+A Feature: assertFalse se repete 359 vezes
+A Feature: assertNotEquals se repete 41 vezes
+A Feature: assertNotNull se repete 116 vezes
+A Feature: assertNotSame se repete 9 vezes
+A Feature: assertNull se repete 96 vezes
+A Feature: assertSame se repete 63 vezes
+A Feature: assertTrue se repete 496 vezes
+A Feature: assumeFalse se repete 5 vezes
+A Feature: assumeTrue se repete 22 vezes
+A Feature: BeforeAll se repete 23 vezes
+A Feature: BeforeEach se repete 375 vezes
+A Feature: ConditionEvaluationResult se repete 2 vezes
+A Feature: Disabled se repete 16 vezes
+A Feature: DynamicTest se repete 5 vezes
+A Feature: Executable se repete 2 vezes
+A Feature: Execution se repete 7 vezes
+A Feature: ExecutionCondition se repete 2 vezes
+A Feature: ExtensionConfigurationException se repete 3 vezes
+A Feature: ExtensionContext se repete 2 vezes
+A Feature: ExtensionContextException se repete 2 vezes
+A Feature: fail se repete 101 vezes
+A Feature: Resources se repete 31 vezes
+A Feature: Test se repete 1475 vezes
+A Feature: TestInfo se repete 13 vezes
+A Feature: ThrowingSupplier se repete 2 vezes
+
+49 Features aparecem 5311 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestFactory é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: ExtendWith é 3 %
+A porcentagem da Feature: RegisterExtension é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: EnabledOnOs é 0 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: DisabledIfSystemProperty é 0 %
+A porcentagem da Feature: EnumSource é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: ResourceLock é 0 %
+A porcentagem da Feature: assertThrows é 7 %
+A porcentagem da Feature: assertTimeoutPreemptively é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 1 %
+A porcentagem da Feature: assertEquals é 15 %
+A porcentagem da Feature: assertFalse é 6 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 1 %
+A porcentagem da Feature: assertSame é 1 %
+A porcentagem da Feature: assertTrue é 9 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 7 %
+A porcentagem da Feature: ConditionEvaluationResult é 0 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: DynamicTest é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: Execution é 0 %
+A porcentagem da Feature: ExecutionCondition é 0 %
+A porcentagem da Feature: ExtensionConfigurationException é 0 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: ExtensionContextException é 0 %
+A porcentagem da Feature: fail é 1 %
+A porcentagem da Feature: Resources é 0 %
+A porcentagem da Feature: Test é 27 %
+A porcentagem da Feature: TestInfo é 0 %
+A porcentagem da Feature: ThrowingSupplier é 0 %
+
+-> O projeto: Release3.3.11 disruptor
+
+A Feature: Timeout se repete 2 vezes
+A Feature: assertThrows se repete 4 vezes
+A Feature: AfterEach se repete 2 vezes
+A Feature: assertEquals se repete 8 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 8 vezes
+A Feature: BeforeEach se repete 4 vezes
+A Feature: fail se repete 5 vezes
+A Feature: Test se repete 27 vezes
+
+11 Features aparecem 64 vezes nesse projeto
+A porcentagem da Feature: Timeout é 3 %
+A porcentagem da Feature: assertThrows é 6 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: assertEquals é 12 %
+A porcentagem da Feature: assertFalse é 3 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertSame é 1 %
+A porcentagem da Feature: assertTrue é 12 %
+A porcentagem da Feature: BeforeEach é 6 %
+A porcentagem da Feature: fail é 7 %
+A porcentagem da Feature: Test é 42 %
+
+-> O projeto: Releasejavaparser-parent-3.18.0 javaparser
+
+A Feature: ParameterizedTest se repete 1 vezes
+A Feature: Nested se repete 4 vezes
+A Feature: TempDir se repete 1 vezes
+A Feature: MethodSource se repete 1 vezes
+A Feature: assertThrows se repete 31 vezes
+A Feature: assertTimeoutPreemptively se repete 2 vezes
+A Feature: AfterAll se repete 2 vezes
+A Feature: AfterEach se repete 12 vezes
+A Feature: Arguments se repete 1 vezes
+A Feature: assertEquals se repete 195 vezes
+A Feature: assertFalse se repete 22 vezes
+A Feature: assertNotEquals se repete 5 vezes
+A Feature: assertNotNull se repete 7 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertTrue se repete 74 vezes
+A Feature: assumeFalse se repete 2 vezes
+A Feature: assumeTrue se repete 4 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: BeforeEach se repete 54 vezes
+A Feature: Disabled se repete 7 vezes
+A Feature: fail se repete 4 vezes
+A Feature: Test se repete 323 vezes
+
+22 Features aparecem 754 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertThrows é 4 %
+A porcentagem da Feature: assertTimeoutPreemptively é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 25 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 9 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 7 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 42 %
+
+-> O projeto: XXL-JOBv2.2.0ï¼Œåˆ†å¸ƒå¼?ä»»åŠ¡è°ƒåº¦å¹³å?° xxl-job
+
+A Feature: assertEquals se repete 1 vezes
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Test se repete 12 vezes
+
+4 Features aparecem 15 vezes nesse projeto
+A porcentagem da Feature: assertEquals é 6 %
+A porcentagem da Feature: assertTrue é 6 %
+A porcentagem da Feature: BeforeEach é 6 %
+A porcentagem da Feature: Test é 80 %
+
+-> O projeto: Zipkin2.22.1 zipkin
+
+A Feature: TestInstance se repete 6 vezes
+A Feature: Nested se repete 4 vezes
+A Feature: Timeout se repete 1 vezes
+A Feature: RegisterExtension se repete 13 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: AfterEach se repete 12 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: BeforeEach se repete 14 vezes
+A Feature: Disabled se repete 4 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 38 vezes
+A Feature: TestInfo se repete 15 vezes
+
+12 Features aparecem 110 vezes nesse projeto
+A porcentagem da Feature: TestInstance é 5 %
+A porcentagem da Feature: Nested é 3 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: RegisterExtension é 11 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 10 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 12 %
+A porcentagem da Feature: Disabled é 3 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 34 %
+A porcentagem da Feature: TestInfo é 13 %
+
+-> O projeto: aeron
+
+A Feature: ParameterizedTest se repete 21 vezes
+A Feature: Timeout se repete 51 vezes
+A Feature: RegisterExtension se repete 30 vezes
+A Feature: TempDir se repete 2 vezes
+A Feature: ValueSource se repete 8 vezes
+A Feature: EnabledOnJre se repete 1 vezes
+A Feature: EnabledForJreRange se repete 2 vezes
+A Feature: EnabledIfEnvironmentVariable se repete 1 vezes
+A Feature: EnumSource se repete 6 vezes
+A Feature: MethodSource se repete 10 vezes
+A Feature: CsvSource se repete 3 vezes
+A Feature: assertThrows se repete 10 vezes
+A Feature: AfterEach se repete 52 vezes
+A Feature: Arguments se repete 9 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 65 vezes
+A Feature: assertFalse se repete 4 vezes
+A Feature: assertNotEquals se repete 6 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 8 vezes
+A Feature: assumeFalse se repete 1 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeEach se repete 47 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: ExtensionContext se repete 1 vezes
+A Feature: fail se repete 4 vezes
+A Feature: Test se repete 126 vezes
+A Feature: TestInfo se repete 2 vezes
+A Feature: TestWatcher se repete 2 vezes
+
+30 Features aparecem 479 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 4 %
+A porcentagem da Feature: Timeout é 10 %
+A porcentagem da Feature: RegisterExtension é 6 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: ValueSource é 1 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: EnabledForJreRange é 0 %
+A porcentagem da Feature: EnabledIfEnvironmentVariable é 0 %
+A porcentagem da Feature: EnumSource é 1 %
+A porcentagem da Feature: MethodSource é 2 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertThrows é 2 %
+A porcentagem da Feature: AfterEach é 10 %
+A porcentagem da Feature: Arguments é 1 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 13 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotEquals é 1 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 1 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeEach é 9 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 26 %
+A porcentagem da Feature: TestInfo é 0 %
+A porcentagem da Feature: TestWatcher é 0 %
+
+-> O projeto: arthas
+
+A Feature: Test se repete 1 vezes
+
+1 Features aparecem 1 vezes nesse projeto
+A porcentagem da Feature: Test é 100 %
+
+-> O projeto: aws-doc-sdk-examples
+
+A Feature: assertEquals se repete 1 vezes
+A Feature: assertNotNull se repete 25 vezes
+A Feature: assertTrue se repete 15 vezes
+A Feature: Test se repete 1 vezes
+
+4 Features aparecem 42 vezes nesse projeto
+A porcentagem da Feature: assertEquals é 2 %
+A porcentagem da Feature: assertNotNull é 59 %
+A porcentagem da Feature: assertTrue é 35 %
+A porcentagem da Feature: Test é 2 %
+
+-> O projeto: camel
+
+A Feature: ParameterizedTest se repete 7 vezes
+A Feature: TestMethodOrder se repete 4 vezes
+A Feature: TestInstance se repete 64 vezes
+A Feature: DisplayName se repete 1 vezes
+A Feature: Timeout se repete 11 vezes
+A Feature: ExtendWith se repete 111 vezes
+A Feature: RegisterExtension se repete 101 vezes
+A Feature: TempDir se repete 12 vezes
+A Feature: DisabledOnOs se repete 14 vezes
+A Feature: EnabledIfEnvironmentVariable se repete 4 vezes
+A Feature: Order se repete 3 vezes
+A Feature: EnumSource se repete 1 vezes
+A Feature: MethodSource se repete 7 vezes
+A Feature: assertThrows se repete 264 vezes
+A Feature: AfterAll se repete 78 vezes
+A Feature: AfterEach se repete 424 vezes
+A Feature: Arguments se repete 6 vezes
+A Feature: assertArrayEquals se repete 71 vezes
+A Feature: assertEquals se repete 3968 vezes
+A Feature: assertFalse se repete 485 vezes
+A Feature: assertNotEquals se repete 48 vezes
+A Feature: assertNotNull se repete 1477 vezes
+A Feature: assertNotSame se repete 54 vezes
+A Feature: assertNull se repete 406 vezes
+A Feature: assertSame se repete 134 vezes
+A Feature: assertTrue se repete 1561 vezes
+A Feature: assumeFalse se repete 16 vezes
+A Feature: assumeTrue se repete 10 vezes
+A Feature: BeforeAll se repete 157 vezes
+A Feature: BeforeEach se repete 1435 vezes
+A Feature: Disabled se repete 301 vezes
+A Feature: ExtensionContext se repete 4 vezes
+A Feature: fail se repete 641 vezes
+A Feature: Lifecycle se repete 1 vezes
+A Feature: MethodOrderer se repete 3 vezes
+A Feature: OrderAnnotation se repete 1 vezes
+A Feature: Test se repete 7915 vezes
+A Feature: TestInfo se repete 2 vezes
+A Feature: TestReporter se repete 1 vezes
+
+39 Features aparecem 19803 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 0 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: RegisterExtension é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: EnabledIfEnvironmentVariable é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: EnumSource é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 2 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 20 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 7 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 2 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 7 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 7 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: fail é 3 %
+A porcentagem da Feature: Lifecycle é 0 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: OrderAnnotation é 0 %
+A porcentagem da Feature: Test é 39 %
+A porcentagem da Feature: TestInfo é 0 %
+A porcentagem da Feature: TestReporter é 0 %
+
+-> O projeto: cas
+
+A Feature: ParameterizedTest se repete 10 vezes
+A Feature: RepeatedTest se repete 1 vezes
+A Feature: TestMethodOrder se repete 27 vezes
+A Feature: TestInstance se repete 1 vezes
+A Feature: DisplayName se repete 1 vezes
+A Feature: Tag se repete 1405 vezes
+A Feature: ExtendWith se repete 11 vezes
+A Feature: Order se repete 25 vezes
+A Feature: MethodSource se repete 10 vezes
+A Feature: ResourceLock se repete 6 vezes
+A Feature: AfterAll se repete 10 vezes
+A Feature: AfterEach se repete 31 vezes
+A Feature: Arguments se repete 6 vezes
+A Feature: assertEquals se repete 2 vezes
+A Feature: assertFalse se repete 1 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 2 vezes
+A Feature: assertTrue se repete 4 vezes
+A Feature: BeforeAll se repete 38 vezes
+A Feature: BeforeEach se repete 176 vezes
+A Feature: Executable se repete 71 vezes
+A Feature: Execution se repete 1 vezes
+A Feature: ExecutionMode se repete 1 vezes
+A Feature: MethodOrderer se repete 27 vezes
+A Feature: RepetitionInfo se repete 1 vezes
+A Feature: Test se repete 1433 vezes
+A Feature: ThrowingSupplier se repete 1 vezes
+
+27 Features aparecem 3303 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 0 %
+A porcentagem da Feature: Tag é 42 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: ResourceLock é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 0 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 0 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertTrue é 0 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 5 %
+A porcentagem da Feature: Executable é 2 %
+A porcentagem da Feature: Execution é 0 %
+A porcentagem da Feature: ExecutionMode é 0 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: RepetitionInfo é 0 %
+A porcentagem da Feature: Test é 43 %
+A porcentagem da Feature: ThrowingSupplier é 0 %
+
+-> O projeto: checkstyle
+
+A Feature: ExtendWith se repete 3 vezes
+A Feature: TempDir se repete 13 vezes
+A Feature: AfterEach se repete 2 vezes
+A Feature: assertArrayEquals se repete 119 vezes
+A Feature: assertEquals se repete 139 vezes
+A Feature: assertFalse se repete 45 vezes
+A Feature: assertNotEquals se repete 8 vezes
+A Feature: assertNotNull se repete 73 vezes
+A Feature: assertNotSame se repete 2 vezes
+A Feature: assertNull se repete 19 vezes
+A Feature: assertSame se repete 9 vezes
+A Feature: assertTrue se repete 98 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeAll se repete 5 vezes
+A Feature: BeforeEach se repete 18 vezes
+A Feature: fail se repete 98 vezes
+A Feature: Test se repete 478 vezes
+
+17 Features aparecem 1130 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: AfterEach é 0 %
+A porcentagem da Feature: assertArrayEquals é 10 %
+A porcentagem da Feature: assertEquals é 12 %
+A porcentagem da Feature: assertFalse é 3 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 6 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 1 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 8 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: fail é 8 %
+A porcentagem da Feature: Test é 42 %
+
+-> O projeto: cucumber-gherkin
+
+A Feature: ExtendWith se repete 1 vezes
+A Feature: assertThrows se repete 13 vezes
+A Feature: AfterEach se repete 1 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 24 vezes
+A Feature: assertFalse se repete 3 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: assertNull se repete 4 vezes
+A Feature: assertSame se repete 4 vezes
+A Feature: assertTrue se repete 4 vezes
+A Feature: BeforeEach se repete 2 vezes
+A Feature: Executable se repete 7 vezes
+A Feature: fail se repete 2 vezes
+A Feature: Test se repete 33 vezes
+
+15 Features aparecem 103 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: assertThrows é 12 %
+A porcentagem da Feature: AfterEach é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 23 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertNull é 3 %
+A porcentagem da Feature: assertSame é 3 %
+A porcentagem da Feature: assertTrue é 3 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: Executable é 6 %
+A porcentagem da Feature: fail é 1 %
+A porcentagem da Feature: Test é 32 %
+
+-> O projeto: debezium
+
+A Feature: TestMethodOrder se repete 5 vezes
+A Feature: Tag se repete 5 vezes
+A Feature: Order se repete 5 vezes
+A Feature: AfterAll se repete 10 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeAll se repete 5 vezes
+A Feature: MethodOrderer se repete 5 vezes
+A Feature: Test se repete 12 vezes
+
+9 Features aparecem 49 vezes nesse projeto
+A porcentagem da Feature: TestMethodOrder é 10 %
+A porcentagem da Feature: Tag é 10 %
+A porcentagem da Feature: Order é 10 %
+A porcentagem da Feature: AfterAll é 20 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertTrue é 2 %
+A porcentagem da Feature: BeforeAll é 10 %
+A porcentagem da Feature: MethodOrderer é 10 %
+A porcentagem da Feature: Test é 24 %
+
+-> O projeto: dropwizard
+
+A Feature: ParameterizedTest se repete 2 vezes
+A Feature: Nested se repete 2 vezes
+A Feature: ExtendWith se repete 39 vezes
+A Feature: TempDir se repete 7 vezes
+A Feature: DisabledOnOs se repete 2 vezes
+A Feature: EnabledOnJre se repete 1 vezes
+A Feature: MethodSource se repete 2 vezes
+A Feature: assertTimeout se repete 2 vezes
+A Feature: AfterAll se repete 7 vezes
+A Feature: AfterEach se repete 43 vezes
+A Feature: Arguments se repete 2 vezes
+A Feature: assertEquals se repete 6 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 3 vezes
+A Feature: assumeFalse se repete 1 vezes
+A Feature: assumeTrue se repete 7 vezes
+A Feature: BeforeAll se repete 11 vezes
+A Feature: BeforeEach se repete 109 vezes
+A Feature: Disabled se repete 3 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 306 vezes
+
+23 Features aparecem 560 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: ExtendWith é 6 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: DisabledOnOs é 0 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertTimeout é 0 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 7 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 1 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 0 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 1 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 19 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 54 %
+
+-> O projeto: dubbo-2.7.8 dubbo
+
+A Feature: ParameterizedTest se repete 1 vezes
+A Feature: TestMethodOrder se repete 1 vezes
+A Feature: ExtendWith se repete 9 vezes
+A Feature: TempDir se repete 4 vezes
+A Feature: Order se repete 1 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: assertThrows se repete 14 vezes
+A Feature: assertTimeout se repete 1 vezes
+A Feature: AfterAll se repete 20 vezes
+A Feature: AfterEach se repete 76 vezes
+A Feature: assertArrayEquals se repete 13 vezes
+A Feature: assertEquals se repete 136 vezes
+A Feature: assertFalse se repete 60 vezes
+A Feature: assertNotEquals se repete 3 vezes
+A Feature: assertNotNull se repete 18 vezes
+A Feature: assertNotSame se repete 1 vezes
+A Feature: assertNull se repete 55 vezes
+A Feature: assertSame se repete 8 vezes
+A Feature: assertTrue se repete 111 vezes
+A Feature: BeforeAll se repete 29 vezes
+A Feature: BeforeEach se repete 147 vezes
+A Feature: Disabled se repete 28 vezes
+A Feature: fail se repete 30 vezes
+A Feature: MethodOrderer se repete 1 vezes
+A Feature: Test se repete 471 vezes
+A Feature: TestInfo se repete 2 vezes
+
+26 Features aparecem 1241 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: assertTimeout é 0 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 6 %
+A porcentagem da Feature: assertArrayEquals é 1 %
+A porcentagem da Feature: assertEquals é 10 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 4 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 8 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 11 %
+A porcentagem da Feature: Disabled é 2 %
+A porcentagem da Feature: fail é 2 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: Test é 37 %
+A porcentagem da Feature: TestInfo é 0 %
+
+-> O projeto: hadoop
+
+A Feature: assertEquals se repete 8 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertTrue se repete 2 vezes
+A Feature: fail se repete 4 vezes
+A Feature: Test se repete 8 vezes
+
+6 Features aparecem 24 vezes nesse projeto
+A porcentagem da Feature: assertEquals é 33 %
+A porcentagem da Feature: assertNotEquals é 4 %
+A porcentagem da Feature: assertNotNull é 4 %
+A porcentagem da Feature: assertTrue é 8 %
+A porcentagem da Feature: fail é 16 %
+A porcentagem da Feature: Test é 33 %
+
+-> O projeto: hive
+
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: BeforeAll se repete 1 vezes
+
+3 Features aparecem 3 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 33 %
+A porcentagem da Feature: AfterAll é 33 %
+A porcentagem da Feature: BeforeAll é 33 %
+
+-> O projeto: ignite
+
+A Feature: Test se repete 30 vezes
+
+1 Features aparecem 30 vezes nesse projeto
+A porcentagem da Feature: Test é 100 %
+
+-> O projeto: java-design-patterns
+
+A Feature: TestInstance se repete 1 vezes
+A Feature: Nested se repete 3 vezes
+A Feature: ExtendWith se repete 7 vezes
+A Feature: assertThrows se repete 14 vezes
+A Feature: assertTimeout se repete 7 vezes
+A Feature: AfterEach se repete 38 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 142 vezes
+A Feature: assertFalse se repete 36 vezes
+A Feature: assertNotEquals se repete 10 vezes
+A Feature: assertNotNull se repete 39 vezes
+A Feature: assertNotSame se repete 1 vezes
+A Feature: assertNull se repete 22 vezes
+A Feature: assertSame se repete 10 vezes
+A Feature: assertTrue se repete 76 vezes
+A Feature: assumeTrue se repete 3 vezes
+A Feature: BeforeAll se repete 7 vezes
+A Feature: BeforeEach se repete 67 vezes
+A Feature: Disabled se repete 3 vezes
+A Feature: EnableRuleMigrationSupport se repete 2 vezes
+A Feature: Executable se repete 3 vezes
+A Feature: fail se repete 8 vezes
+A Feature: Lifecycle se repete 1 vezes
+A Feature: Test se repete 353 vezes
+
+24 Features aparecem 854 vezes nesse projeto
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: assertTimeout é 0 %
+A porcentagem da Feature: AfterEach é 4 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 16 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotEquals é 1 %
+A porcentagem da Feature: assertNotNull é 4 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 2 %
+A porcentagem da Feature: assertSame é 1 %
+A porcentagem da Feature: assertTrue é 8 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 7 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: EnableRuleMigrationSupport é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Lifecycle é 0 %
+A porcentagem da Feature: Test é 41 %
+
+-> O projeto: jmeter
+
+A Feature: ParameterizedTest se repete 5 vezes
+A Feature: ExtendWith se repete 1 vezes
+A Feature: TempDir se repete 7 vezes
+A Feature: ValueSource se repete 4 vezes
+A Feature: MethodSource se repete 2 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: assertThrows se repete 10 vezes
+A Feature: AfterEach se repete 11 vezes
+A Feature: Arguments se repete 1 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 18 vezes
+A Feature: assertFalse se repete 8 vezes
+A Feature: assertNotNull se repete 7 vezes
+A Feature: assertNull se repete 9 vezes
+A Feature: assertSame se repete 2 vezes
+A Feature: assertTrue se repete 10 vezes
+A Feature: BeforeAll se repete 4 vezes
+A Feature: BeforeEach se repete 80 vezes
+A Feature: Disabled se repete 2 vezes
+A Feature: Executable se repete 2 vezes
+A Feature: Execution se repete 4 vezes
+A Feature: ExecutionMode se repete 4 vezes
+A Feature: Test se repete 166 vezes
+
+23 Features aparecem 359 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: ValueSource é 1 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertThrows é 2 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 5 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNull é 2 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 2 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 22 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: Execution é 1 %
+A porcentagem da Feature: ExecutionMode é 1 %
+A porcentagem da Feature: Test é 46 %
+
+-> O projeto: jsoup1.13.1 jsoup
+
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: assertArrayEquals se repete 3 vezes
+A Feature: assertEquals se repete 10 vezes
+A Feature: assertTrue se repete 3 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Disabled se repete 5 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 39 vezes
+
+10 Features aparecem 66 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: assertArrayEquals é 4 %
+A porcentagem da Feature: assertEquals é 15 %
+A porcentagem da Feature: assertTrue é 4 %
+A porcentagem da Feature: BeforeAll é 3 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: Disabled é 7 %
+A porcentagem da Feature: fail é 1 %
+A porcentagem da Feature: Test é 59 %
+
+-> O projeto: kafka
+
+A Feature: Tag se repete 1 vezes
+A Feature: Timeout se repete 12 vezes
+A Feature: assertThrows se repete 16 vezes
+A Feature: AfterEach se repete 3 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 39 vezes
+A Feature: assertFalse se repete 17 vezes
+A Feature: assertNotEquals se repete 3 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: assertNull se repete 4 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 22 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeEach se repete 3 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Test se repete 40 vezes
+
+16 Features aparecem 167 vezes nesse projeto
+A porcentagem da Feature: Tag é 0 %
+A porcentagem da Feature: Timeout é 7 %
+A porcentagem da Feature: assertThrows é 9 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 23 %
+A porcentagem da Feature: assertFalse é 10 %
+A porcentagem da Feature: assertNotEquals é 1 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNull é 2 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 13 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 23 %
+
+-> O projeto: karate
+
+A Feature: assertEquals se repete 2 vezes
+A Feature: Test se repete 7 vezes
+
+2 Features aparecem 9 vezes nesse projeto
+A porcentagem da Feature: assertEquals é 22 %
+A porcentagem da Feature: Test é 77 %
+
+-> O projeto: keycloak
+
+A Feature: RegisterExtension se repete 3 vezes
+A Feature: Test se repete 3 vezes
+
+2 Features aparecem 6 vezes nesse projeto
+A porcentagem da Feature: RegisterExtension é 50 %
+A porcentagem da Feature: Test é 50 %
+
+-> O projeto: mybatis-3.5.6 mybatis-3
+
+A Feature: Tag se repete 9 vezes
+A Feature: ExtendWith se repete 12 vezes
+A Feature: assertThrows se repete 4 vezes
+A Feature: AfterAll se repete 2 vezes
+A Feature: AfterEach se repete 10 vezes
+A Feature: assertArrayEquals se repete 3 vezes
+A Feature: assertEquals se repete 80 vezes
+A Feature: assertFalse se repete 4 vezes
+A Feature: assertNotNull se repete 13 vezes
+A Feature: assertNull se repete 31 vezes
+A Feature: assertTrue se repete 19 vezes
+A Feature: BeforeAll se repete 142 vezes
+A Feature: BeforeEach se repete 38 vezes
+A Feature: Disabled se repete 11 vezes
+A Feature: fail se repete 4 vezes
+A Feature: Test se repete 318 vezes
+
+16 Features aparecem 700 vezes nesse projeto
+A porcentagem da Feature: Tag é 1 %
+A porcentagem da Feature: ExtendWith é 1 %
+A porcentagem da Feature: assertThrows é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 11 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNull é 4 %
+A porcentagem da Feature: assertTrue é 2 %
+A porcentagem da Feature: BeforeAll é 20 %
+A porcentagem da Feature: BeforeEach é 5 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 45 %
+
+-> O projeto: netty
+
+A Feature: Executable se repete 1 vezes
+A Feature: Test se repete 2 vezes
+
+2 Features aparecem 3 vezes nesse projeto
+A porcentagem da Feature: Executable é 33 %
+A porcentagem da Feature: Test é 66 %
+
+-> O projeto: okhttp
+
+A Feature: Tag se repete 21 vezes
+A Feature: Timeout se repete 11 vezes
+A Feature: ExtendWith se repete 5 vezes
+A Feature: RegisterExtension se repete 32 vezes
+A Feature: TempDir se repete 3 vezes
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterEach se repete 18 vezes
+A Feature: AfterEachCallback se repete 1 vezes
+A Feature: assertArrayEquals se repete 3 vezes
+A Feature: assertEquals se repete 4 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertNotSame se repete 1 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 2 vezes
+A Feature: assumeFalse se repete 2 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeEach se repete 31 vezes
+A Feature: Disabled se repete 10 vezes
+A Feature: fail se repete 44 vezes
+A Feature: Test se repete 71 vezes
+
+20 Features aparecem 264 vezes nesse projeto
+A porcentagem da Feature: Tag é 7 %
+A porcentagem da Feature: Timeout é 4 %
+A porcentagem da Feature: ExtendWith é 1 %
+A porcentagem da Feature: RegisterExtension é 12 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: assertThrows é 0 %
+A porcentagem da Feature: AfterEach é 6 %
+A porcentagem da Feature: AfterEachCallback é 0 %
+A porcentagem da Feature: assertArrayEquals é 1 %
+A porcentagem da Feature: assertEquals é 1 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 0 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeEach é 11 %
+A porcentagem da Feature: Disabled é 3 %
+A porcentagem da Feature: fail é 16 %
+A porcentagem da Feature: Test é 26 %
+
+-> O projeto: onemall
+
+
+0 Features aparecem 0 vezes nesse projeto
+
+-> O projeto: rabbitmq-tutorials
+
+
+0 Features aparecem 0 vezes nesse projeto
+
+-> O projeto: shiro
+
+A Feature: ExtendWith se repete 1 vezes
+A Feature: assertEquals se repete 2 vezes
+A Feature: Test se repete 2 vezes
+
+3 Features aparecem 5 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 20 %
+A porcentagem da Feature: assertEquals é 40 %
+A porcentagem da Feature: Test é 40 %
+
+-> O projeto: spring-boot-demo
+
+A Feature: DisplayName se repete 2 vezes
+A Feature: assertThrows se repete 1 vezes
+A Feature: assertEquals se repete 1 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Test se repete 7 vezes
+
+6 Features aparecem 15 vezes nesse projeto
+A porcentagem da Feature: DisplayName é 13 %
+A porcentagem da Feature: assertThrows é 6 %
+A porcentagem da Feature: assertEquals é 6 %
+A porcentagem da Feature: assertNotNull é 20 %
+A porcentagem da Feature: BeforeEach é 6 %
+A porcentagem da Feature: Test é 46 %
+
+-> O projeto: spring-boot-starter
+
+A Feature: AfterEach se repete 2 vezes
+A Feature: BeforeEach se repete 2 vezes
+A Feature: Disabled se repete 2 vezes
+A Feature: Test se repete 33 vezes
+
+4 Features aparecem 39 vezes nesse projeto
+A porcentagem da Feature: AfterEach é 5 %
+A porcentagem da Feature: BeforeEach é 5 %
+A porcentagem da Feature: Disabled é 5 %
+A porcentagem da Feature: Test é 84 %
+
+-> O projeto: spring-cloud-netflix
+
+A Feature: ExtendWith se repete 1 vezes
+A Feature: Test se repete 5 vezes
+
+2 Features aparecem 6 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 16 %
+A porcentagem da Feature: Test é 83 %
+
+-> O projeto: spring-data-examples
+
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: Test se repete 2 vezes
+
+3 Features aparecem 4 vezes nesse projeto
+A porcentagem da Feature: assertThrows é 25 %
+A porcentagem da Feature: AfterAll é 25 %
+A porcentagem da Feature: Test é 50 %
+
+-> O projeto: spring-framework
+
+A Feature: ParameterizedTest se repete 20 vezes
+A Feature: RepeatedTest se repete 1 vezes
+A Feature: TestFactory se repete 1 vezes
+A Feature: TestMethodOrder se repete 11 vezes
+A Feature: TestInstance se repete 5 vezes
+A Feature: DisplayName se repete 9 vezes
+A Feature: Nested se repete 24 vezes
+A Feature: Timeout se repete 4 vezes
+A Feature: ExtendWith se repete 77 vezes
+A Feature: RegisterExtension se repete 1 vezes
+A Feature: TempDir se repete 2 vezes
+A Feature: ValueSource se repete 13 vezes
+A Feature: EnabledOnJre se repete 2 vezes
+A Feature: DisabledForJreRange se repete 6 vezes
+A Feature: Order se repete 8 vezes
+A Feature: MethodSource se repete 5 vezes
+A Feature: CsvSource se repete 3 vezes
+A Feature: AfterAll se repete 17 vezes
+A Feature: AfterEach se repete 111 vezes
+A Feature: Arguments se repete 3 vezes
+A Feature: assumeTrue se repete 5 vezes
+A Feature: BeforeAll se repete 21 vezes
+A Feature: BeforeEach se repete 513 vezes
+A Feature: ConditionEvaluationResult se repete 1 vezes
+A Feature: Disabled se repete 34 vezes
+A Feature: DynamicTest se repete 1 vezes
+A Feature: Executable se repete 1 vezes
+A Feature: ExtensionContext se repete 1 vezes
+A Feature: fail se repete 1 vezes
+A Feature: Lifecycle se repete 3 vezes
+A Feature: MethodOrderer se repete 11 vezes
+A Feature: ParameterResolutionException se repete 1 vezes
+A Feature: Store se repete 1 vezes
+A Feature: Test se repete 1920 vezes
+A Feature: TestInfo se repete 18 vezes
+A Feature: TestReporter se repete 2 vezes
+
+36 Features aparecem 2857 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestFactory é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: Timeout é 0 %
+A porcentagem da Feature: ExtendWith é 2 %
+A porcentagem da Feature: RegisterExtension é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: DisabledForJreRange é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 17 %
+A porcentagem da Feature: ConditionEvaluationResult é 0 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: DynamicTest é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Lifecycle é 0 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: ParameterResolutionException é 0 %
+A porcentagem da Feature: Store é 0 %
+A porcentagem da Feature: Test é 67 %
+A porcentagem da Feature: TestInfo é 0 %
+A porcentagem da Feature: TestReporter é 0 %
+
+-> O projeto: spring-petclinic
+
+A Feature: ExtendWith se repete 1 vezes
+A Feature: BeforeEach se repete 5 vezes
+A Feature: Disabled se repete 1 vezes
+A Feature: Test se repete 10 vezes
+
+4 Features aparecem 17 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 5 %
+A porcentagem da Feature: BeforeEach é 29 %
+A porcentagem da Feature: Disabled é 5 %
+A porcentagem da Feature: Test é 58 %
+
+-> O projeto: springboot-guide
+
+A Feature: Test se repete 6 vezes
+
+1 Features aparecem 6 vezes nesse projeto
+A porcentagem da Feature: Test é 100 %
+
+-> O projeto: tutorials
+
+A Feature: ParameterizedTest se repete 11 vezes
+A Feature: RepeatedTest se repete 1 vezes
+A Feature: TestMethodOrder se repete 7 vezes
+A Feature: TestInstance se repete 8 vezes
+A Feature: DisplayName se repete 21 vezes
+A Feature: DisplayNameGeneration se repete 1 vezes
+A Feature: Nested se repete 8 vezes
+A Feature: Tag se repete 6 vezes
+A Feature: ExtendWith se repete 48 vezes
+A Feature: RegisterExtension se repete 3 vezes
+A Feature: TempDir se repete 2 vezes
+A Feature: ValueSource se repete 11 vezes
+A Feature: Order se repete 6 vezes
+A Feature: assertAll se repete 5 vezes
+A Feature: assertThrows se repete 46 vezes
+A Feature: assertTimeout se repete 1 vezes
+A Feature: assertTimeoutPreemptively se repete 1 vezes
+A Feature: assumingThat se repete 1 vezes
+A Feature: AfterAll se repete 13 vezes
+A Feature: AfterEach se repete 20 vezes
+A Feature: Alphanumeric se repete 1 vezes
+A Feature: assertArrayEquals se repete 7 vezes
+A Feature: assertEquals se repete 164 vezes
+A Feature: assertFalse se repete 16 vezes
+A Feature: assertIterableEquals se repete 2 vezes
+A Feature: assertLinesMatch se repete 3 vezes
+A Feature: assertNotEquals se repete 7 vezes
+A Feature: assertNotNull se repete 26 vezes
+A Feature: assertNull se repete 7 vezes
+A Feature: assertSame se repete 2 vezes
+A Feature: assertTrue se repete 44 vezes
+A Feature: assumeFalse se repete 1 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeAll se repete 34 vezes
+A Feature: BeforeEach se repete 88 vezes
+A Feature: Disabled se repete 14 vezes
+A Feature: DisplayNameGenerator se repete 1 vezes
+A Feature: EnableRuleMigrationSupport se repete 1 vezes
+A Feature: Executable se repete 6 vezes
+A Feature: fail se repete 6 vezes
+A Feature: Lifecycle se repete 3 vezes
+A Feature: MethodOrderer se repete 1 vezes
+A Feature: OrderAnnotation se repete 4 vezes
+A Feature: Test se repete 484 vezes
+
+44 Features aparecem 1143 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: RepeatedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: TestInstance é 0 %
+A porcentagem da Feature: DisplayName é 1 %
+A porcentagem da Feature: DisplayNameGeneration é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: Tag é 0 %
+A porcentagem da Feature: ExtendWith é 4 %
+A porcentagem da Feature: RegisterExtension é 0 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: assertAll é 0 %
+A porcentagem da Feature: assertThrows é 4 %
+A porcentagem da Feature: assertTimeout é 0 %
+A porcentagem da Feature: assertTimeoutPreemptively é 0 %
+A porcentagem da Feature: assumingThat é 0 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: Alphanumeric é 0 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 14 %
+A porcentagem da Feature: assertFalse é 1 %
+A porcentagem da Feature: assertIterableEquals é 0 %
+A porcentagem da Feature: assertLinesMatch é 0 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 2 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 3 %
+A porcentagem da Feature: assumeFalse é 0 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 7 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: DisplayNameGenerator é 0 %
+A porcentagem da Feature: EnableRuleMigrationSupport é 0 %
+A porcentagem da Feature: Executable é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Lifecycle é 0 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: OrderAnnotation é 0 %
+A porcentagem da Feature: Test é 42 %
+
+-> O projeto: v.2.0.3.RELEASE spring-cloud-alibaba
+
+A Feature: ExtendWith se repete 2 vezes
+A Feature: Test se repete 6 vezes
+
+2 Features aparecem 8 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 25 %
+A porcentagem da Feature: Test é 75 %
+
+-> O projeto: v0.21.0-beta4 graylog2-server
+
+A Feature: ParameterizedTest se repete 5 vezes
+A Feature: TestMethodOrder se repete 1 vezes
+A Feature: DisplayName se repete 7 vezes
+A Feature: Nested se repete 5 vezes
+A Feature: ExtendWith se repete 10 vezes
+A Feature: RegisterExtension se repete 2 vezes
+A Feature: ValueSource se repete 3 vezes
+A Feature: Order se repete 1 vezes
+A Feature: MethodSource se repete 1 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: assertAll se repete 5 vezes
+A Feature: Arguments se repete 1 vezes
+A Feature: BeforeEach se repete 39 vezes
+A Feature: MethodOrderer se repete 1 vezes
+A Feature: Test se repete 56 vezes
+
+15 Features aparecem 138 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 3 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: DisplayName é 5 %
+A porcentagem da Feature: Nested é 3 %
+A porcentagem da Feature: ExtendWith é 7 %
+A porcentagem da Feature: RegisterExtension é 1 %
+A porcentagem da Feature: ValueSource é 2 %
+A porcentagem da Feature: Order é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertAll é 3 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: BeforeEach é 28 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: Test é 40 %
+
+-> O projeto: v1.2.0 jadx
+
+A Feature: ExtendWith se repete 1 vezes
+A Feature: assertThrows se repete 1 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: assertEquals se repete 34 vezes
+A Feature: assertFalse se repete 5 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 1 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertSame se repete 2 vezes
+A Feature: assertTrue se repete 16 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 8 vezes
+A Feature: fail se repete 2 vezes
+A Feature: Test se repete 427 vezes
+
+14 Features aparecem 502 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: assertThrows é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: assertEquals é 6 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 3 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: Test é 85 %
+
+-> O projeto: v1.3.0-NowwithSmaliDebugger(sdbg) simplify
+
+A Feature: ExtendWith se repete 5 vezes
+A Feature: assertThrows se repete 4 vezes
+A Feature: assertArrayEquals se repete 7 vezes
+A Feature: assertEquals se repete 44 vezes
+A Feature: assertFalse se repete 8 vezes
+A Feature: assertNotEquals se repete 1 vezes
+A Feature: assertNotNull se repete 2 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 8 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 39 vezes
+A Feature: Test se repete 55 vezes
+
+13 Features aparecem 177 vezes nesse projeto
+A porcentagem da Feature: ExtendWith é 2 %
+A porcentagem da Feature: assertThrows é 2 %
+A porcentagem da Feature: assertArrayEquals é 3 %
+A porcentagem da Feature: assertEquals é 24 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 4 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 22 %
+A porcentagem da Feature: Test é 31 %
+
+-> O projeto: v1.4.0 seata
+
+A Feature: ParameterizedTest se repete 4 vezes
+A Feature: ExtendWith se repete 2 vezes
+A Feature: MethodSource se repete 4 vezes
+A Feature: AfterAll se repete 17 vezes
+A Feature: AfterEach se repete 11 vezes
+A Feature: Arguments se repete 3 vezes
+A Feature: assertEquals se repete 3 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertNull se repete 3 vezes
+A Feature: assertTrue se repete 4 vezes
+A Feature: BeforeAll se repete 42 vezes
+A Feature: BeforeEach se repete 20 vezes
+A Feature: Disabled se repete 6 vezes
+A Feature: Test se repete 257 vezes
+
+14 Features aparecem 378 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: ExtendWith é 0 %
+A porcentagem da Feature: MethodSource é 1 %
+A porcentagem da Feature: AfterAll é 4 %
+A porcentagem da Feature: AfterEach é 2 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 0 %
+A porcentagem da Feature: assertFalse é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 1 %
+A porcentagem da Feature: BeforeAll é 11 %
+A porcentagem da Feature: BeforeEach é 5 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: Test é 67 %
+
+-> O projeto: v1.5.0 bisq
+
+A Feature: ParameterizedTest se repete 1 vezes
+A Feature: TestMethodOrder se repete 19 vezes
+A Feature: ValueSource se repete 1 vezes
+A Feature: Order se repete 18 vezes
+A Feature: assertThrows se repete 3 vezes
+A Feature: AfterAll se repete 14 vezes
+A Feature: assertEquals se repete 15 vezes
+A Feature: assertFalse se repete 4 vezes
+A Feature: assertNotEquals se repete 5 vezes
+A Feature: assertNotNull se repete 3 vezes
+A Feature: assertTrue se repete 7 vezes
+A Feature: BeforeAll se repete 15 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Disabled se repete 19 vezes
+A Feature: fail se repete 9 vezes
+A Feature: MethodOrderer se repete 12 vezes
+A Feature: OrderAnnotation se repete 7 vezes
+A Feature: Test se repete 47 vezes
+A Feature: TestInfo se repete 9 vezes
+
+19 Features aparecem 209 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 9 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: Order é 8 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterAll é 6 %
+A porcentagem da Feature: assertEquals é 7 %
+A porcentagem da Feature: assertFalse é 1 %
+A porcentagem da Feature: assertNotEquals é 2 %
+A porcentagem da Feature: assertNotNull é 1 %
+A porcentagem da Feature: assertTrue é 3 %
+A porcentagem da Feature: BeforeAll é 7 %
+A porcentagem da Feature: BeforeEach é 0 %
+A porcentagem da Feature: Disabled é 9 %
+A porcentagem da Feature: fail é 4 %
+A porcentagem da Feature: MethodOrderer é 5 %
+A porcentagem da Feature: OrderAnnotation é 3 %
+A porcentagem da Feature: Test é 22 %
+A porcentagem da Feature: TestInfo é 4 %
+
+-> O projeto: v1.8.0 Sentinel
+
+A Feature: RegisterExtension se repete 2 vezes
+A Feature: AfterEach se repete 3 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Test se repete 3 vezes
+
+4 Features aparecem 9 vezes nesse projeto
+A porcentagem da Feature: RegisterExtension é 22 %
+A porcentagem da Feature: AfterEach é 33 %
+A porcentagem da Feature: BeforeEach é 11 %
+A porcentagem da Feature: Test é 33 %
+
+-> O projeto: v2.4.0 spring-boot
+
+A Feature: ParameterizedTest se repete 6 vezes
+A Feature: TestMethodOrder se repete 4 vezes
+A Feature: Nested se repete 4 vezes
+A Feature: ExtendWith se repete 221 vezes
+A Feature: RegisterExtension se repete 6 vezes
+A Feature: TempDir se repete 94 vezes
+A Feature: ValueSource se repete 4 vezes
+A Feature: EnabledOnJre se repete 3 vezes
+A Feature: DisabledForJreRange se repete 1 vezes
+A Feature: MethodSource se repete 2 vezes
+A Feature: AfterAll se repete 7 vezes
+A Feature: AfterEach se repete 153 vezes
+A Feature: Arguments se repete 4 vezes
+A Feature: BeforeAll se repete 8 vezes
+A Feature: BeforeAllCallback se repete 1 vezes
+A Feature: BeforeEach se repete 237 vezes
+A Feature: Disabled se repete 11 vezes
+A Feature: ExtensionContext se repete 1 vezes
+A Feature: fail se repete 9 vezes
+A Feature: MethodOrderer se repete 4 vezes
+A Feature: Test se repete 1713 vezes
+A Feature: TestInfo se repete 2 vezes
+A Feature: ThrowingConsumer se repete 1 vezes
+
+23 Features aparecem 2496 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: TestMethodOrder é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: ExtendWith é 8 %
+A porcentagem da Feature: RegisterExtension é 0 %
+A porcentagem da Feature: TempDir é 3 %
+A porcentagem da Feature: ValueSource é 0 %
+A porcentagem da Feature: EnabledOnJre é 0 %
+A porcentagem da Feature: DisabledForJreRange é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 6 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeAllCallback é 0 %
+A porcentagem da Feature: BeforeEach é 9 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: ExtensionContext é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: MethodOrderer é 0 %
+A porcentagem da Feature: Test é 68 %
+A porcentagem da Feature: TestInfo é 0 %
+A porcentagem da Feature: ThrowingConsumer é 0 %
+
+-> O projeto: v3.3.9.RELEASE reactor-core
+
+A Feature: ParameterizedTest se repete 8 vezes
+A Feature: TestFactory se repete 1 vezes
+A Feature: Nested se repete 3 vezes
+A Feature: Tag se repete 2 vezes
+A Feature: Timeout se repete 26 vezes
+A Feature: RegisterExtension se repete 6 vezes
+A Feature: EnumSource se repete 3 vezes
+A Feature: MethodSource se repete 4 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: assertThrows se repete 9 vezes
+A Feature: AfterAll se repete 6 vezes
+A Feature: AfterEach se repete 17 vezes
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeAll se repete 5 vezes
+A Feature: BeforeEach se repete 20 vezes
+A Feature: Disabled se repete 10 vezes
+A Feature: DynamicTest se repete 1 vezes
+A Feature: Test se repete 386 vezes
+A Feature: TestInfo se repete 2 vezes
+
+19 Features aparecem 511 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 1 %
+A porcentagem da Feature: TestFactory é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: Tag é 0 %
+A porcentagem da Feature: Timeout é 5 %
+A porcentagem da Feature: RegisterExtension é 1 %
+A porcentagem da Feature: EnumSource é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: assertTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 3 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: DynamicTest é 0 %
+A porcentagem da Feature: Test é 75 %
+A porcentagem da Feature: TestInfo é 0 %
+
+-> O projeto: v3.4.1 mybatis-plus
+
+A Feature: TestMethodOrder se repete 11 vezes
+A Feature: ExtendWith se repete 26 vezes
+A Feature: Order se repete 3 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: assertEquals se repete 10 vezes
+A Feature: assertNull se repete 1 vezes
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 2 vezes
+A Feature: Disabled se repete 3 vezes
+A Feature: MethodOrderer se repete 11 vezes
+A Feature: Test se repete 91 vezes
+A Feature: TestInfo se repete 1 vezes
+
+13 Features aparecem 163 vezes nesse projeto
+A porcentagem da Feature: TestMethodOrder é 6 %
+A porcentagem da Feature: ExtendWith é 15 %
+A porcentagem da Feature: Order é 1 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: assertEquals é 6 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 0 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 1 %
+A porcentagem da Feature: Disabled é 1 %
+A porcentagem da Feature: MethodOrderer é 6 %
+A porcentagem da Feature: Test é 55 %
+A porcentagem da Feature: TestInfo é 0 %
+
+-> O projeto: v3.6.42 mockito
+
+A Feature: Nested se repete 4 vezes
+A Feature: ExtendWith se repete 7 vezes
+A Feature: AfterAll se repete 1 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: Test se repete 9 vezes
+
+5 Features aparecem 22 vezes nesse projeto
+A porcentagem da Feature: Nested é 18 %
+A porcentagem da Feature: ExtendWith é 31 %
+A porcentagem da Feature: AfterAll é 4 %
+A porcentagem da Feature: BeforeAll é 4 %
+A porcentagem da Feature: Test é 40 %
+
+-> O projeto: v5.1.0 FlexibleAdapter
+
+A Feature: Test se repete 1 vezes
+
+1 Features aparecem 1 vezes nesse projeto
+A porcentagem da Feature: Test é 100 %
+
+-> O projeto: v5.3.0 jodd
+
+A Feature: ParameterizedTest se repete 4 vezes
+A Feature: DisplayName se repete 6 vezes
+A Feature: Nested se repete 5 vezes
+A Feature: EnabledOnOs se repete 1 vezes
+A Feature: MethodSource se repete 3 vezes
+A Feature: CsvSource se repete 1 vezes
+A Feature: assertThrows se repete 9 vezes
+A Feature: AfterAll se repete 2 vezes
+A Feature: AfterEach se repete 11 vezes
+A Feature: Arguments se repete 3 vezes
+A Feature: assertArrayEquals se repete 11 vezes
+A Feature: assertEquals se repete 175 vezes
+A Feature: assertFalse se repete 37 vezes
+A Feature: assertNotEquals se repete 6 vezes
+A Feature: assertNotNull se repete 64 vezes
+A Feature: assertNotSame se repete 6 vezes
+A Feature: assertNull se repete 37 vezes
+A Feature: assertSame se repete 13 vezes
+A Feature: assertTrue se repete 67 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeAll se repete 2 vezes
+A Feature: BeforeEach se repete 37 vezes
+A Feature: ConvertWith se repete 1 vezes
+A Feature: Disabled se repete 2 vezes
+A Feature: fail se repete 34 vezes
+A Feature: SimpleArgumentConverter se repete 1 vezes
+A Feature: Test se repete 234 vezes
+
+27 Features aparecem 773 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 0 %
+A porcentagem da Feature: DisplayName é 0 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: EnabledOnOs é 0 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: CsvSource é 0 %
+A porcentagem da Feature: assertThrows é 1 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 1 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertArrayEquals é 1 %
+A porcentagem da Feature: assertEquals é 22 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 8 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 4 %
+A porcentagem da Feature: assertSame é 1 %
+A porcentagem da Feature: assertTrue é 8 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 0 %
+A porcentagem da Feature: BeforeEach é 4 %
+A porcentagem da Feature: ConvertWith é 0 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: fail é 4 %
+A porcentagem da Feature: SimpleArgumentConverter é 0 %
+A porcentagem da Feature: Test é 30 %
+
+-> O projeto: v5.x.last tx-lcn
+
+A Feature: assertTrue se repete 1 vezes
+A Feature: BeforeEach se repete 2 vezes
+A Feature: Test se repete 7 vezes
+
+3 Features aparecem 10 vezes nesse projeto
+A porcentagem da Feature: assertTrue é 10 %
+A porcentagem da Feature: BeforeEach é 20 %
+A porcentagem da Feature: Test é 70 %
+
+-> O projeto: vespa
+
+A Feature: DisplayName se repete 1 vezes
+A Feature: Timeout se repete 1 vezes
+A Feature: TempDir se repete 1 vezes
+A Feature: assertThrows se repete 3 vezes
+A Feature: assertArrayEquals se repete 1 vezes
+A Feature: assertEquals se repete 7 vezes
+A Feature: assertFalse se repete 2 vezes
+A Feature: assertSame se repete 1 vezes
+A Feature: assertTrue se repete 3 vezes
+A Feature: BeforeAll se repete 1 vezes
+A Feature: BeforeEach se repete 1 vezes
+A Feature: Disabled se repete 1 vezes
+A Feature: fail se repete 2 vezes
+A Feature: Test se repete 17 vezes
+
+14 Features aparecem 42 vezes nesse projeto
+A porcentagem da Feature: DisplayName é 2 %
+A porcentagem da Feature: Timeout é 2 %
+A porcentagem da Feature: TempDir é 2 %
+A porcentagem da Feature: assertThrows é 7 %
+A porcentagem da Feature: assertArrayEquals é 2 %
+A porcentagem da Feature: assertEquals é 16 %
+A porcentagem da Feature: assertFalse é 4 %
+A porcentagem da Feature: assertSame é 2 %
+A porcentagem da Feature: assertTrue é 7 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 2 %
+A porcentagem da Feature: Disabled é 2 %
+A porcentagem da Feature: fail é 4 %
+A porcentagem da Feature: Test é 40 %
+
+-> O projeto: w2020-12-02 zaproxy
+
+A Feature: ParameterizedTest se repete 16 vezes
+A Feature: Nested se repete 1 vezes
+A Feature: ExtendWith se repete 13 vezes
+A Feature: TempDir se repete 7 vezes
+A Feature: ValueSource se repete 12 vezes
+A Feature: MethodSource se repete 3 vezes
+A Feature: assertThrows se repete 56 vezes
+A Feature: AfterAll se repete 2 vezes
+A Feature: AfterEach se repete 12 vezes
+A Feature: Arguments se repete 2 vezes
+A Feature: assertEquals se repete 10 vezes
+A Feature: assertFalse se repete 9 vezes
+A Feature: assertNotNull se repete 2 vezes
+A Feature: assertNull se repete 2 vezes
+A Feature: assertTrue se repete 16 vezes
+A Feature: assumeTrue se repete 1 vezes
+A Feature: BeforeAll se repete 5 vezes
+A Feature: BeforeEach se repete 66 vezes
+A Feature: Disabled se repete 1 vezes
+A Feature: fail se repete 1 vezes
+A Feature: NullAndEmptySource se repete 5 vezes
+A Feature: Test se repete 150 vezes
+
+22 Features aparecem 392 vezes nesse projeto
+A porcentagem da Feature: ParameterizedTest é 4 %
+A porcentagem da Feature: Nested é 0 %
+A porcentagem da Feature: ExtendWith é 3 %
+A porcentagem da Feature: TempDir é 1 %
+A porcentagem da Feature: ValueSource é 3 %
+A porcentagem da Feature: MethodSource é 0 %
+A porcentagem da Feature: assertThrows é 14 %
+A porcentagem da Feature: AfterAll é 0 %
+A porcentagem da Feature: AfterEach é 3 %
+A porcentagem da Feature: Arguments é 0 %
+A porcentagem da Feature: assertEquals é 2 %
+A porcentagem da Feature: assertFalse é 2 %
+A porcentagem da Feature: assertNotNull é 0 %
+A porcentagem da Feature: assertNull é 0 %
+A porcentagem da Feature: assertTrue é 4 %
+A porcentagem da Feature: assumeTrue é 0 %
+A porcentagem da Feature: BeforeAll é 1 %
+A porcentagem da Feature: BeforeEach é 16 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: fail é 0 %
+A porcentagem da Feature: NullAndEmptySource é 1 %
+A porcentagem da Feature: Test é 38 %
+
+-> O projeto: zookeeper
+
+A Feature: Timeout se repete 36 vezes
+A Feature: TempDir se repete 4 vezes
+A Feature: assertThrows se repete 26 vezes
+A Feature: AfterAll se repete 24 vezes
+A Feature: AfterEach se repete 104 vezes
+A Feature: assertArrayEquals se repete 8 vezes
+A Feature: assertEquals se repete 175 vezes
+A Feature: assertFalse se repete 76 vezes
+A Feature: assertNotEquals se repete 12 vezes
+A Feature: assertNotNull se repete 54 vezes
+A Feature: assertNotSame se repete 6 vezes
+A Feature: assertNull se repete 39 vezes
+A Feature: assertSame se repete 7 vezes
+A Feature: assertTrue se repete 150 vezes
+A Feature: BeforeAll se repete 30 vezes
+A Feature: BeforeEach se repete 131 vezes
+A Feature: Disabled se repete 3 vezes
+A Feature: fail se repete 100 vezes
+A Feature: Test se repete 284 vezes
+A Feature: TestInfo se repete 1 vezes
+
+20 Features aparecem 1270 vezes nesse projeto
+A porcentagem da Feature: Timeout é 2 %
+A porcentagem da Feature: TempDir é 0 %
+A porcentagem da Feature: assertThrows é 2 %
+A porcentagem da Feature: AfterAll é 1 %
+A porcentagem da Feature: AfterEach é 8 %
+A porcentagem da Feature: assertArrayEquals é 0 %
+A porcentagem da Feature: assertEquals é 13 %
+A porcentagem da Feature: assertFalse é 5 %
+A porcentagem da Feature: assertNotEquals é 0 %
+A porcentagem da Feature: assertNotNull é 4 %
+A porcentagem da Feature: assertNotSame é 0 %
+A porcentagem da Feature: assertNull é 3 %
+A porcentagem da Feature: assertSame é 0 %
+A porcentagem da Feature: assertTrue é 11 %
+A porcentagem da Feature: BeforeAll é 2 %
+A porcentagem da Feature: BeforeEach é 10 %
+A porcentagem da Feature: Disabled é 0 %
+A porcentagem da Feature: fail é 7 %
+A porcentagem da Feature: Test é 22 %
+A porcentagem da Feature: TestInfo é 0 %
+
