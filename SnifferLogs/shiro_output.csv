@@ -1,0 +1,6 @@
+Project,Absolute Path,Feature
+"shiro","C:\JUnit5Projects\shiro\lang\src\test\java\org\apache\shiro\lang\util\ClassUtilsTest.java","Test"
+"shiro","C:\JUnit5Projects\shiro\lang\src\test\java\org\apache\shiro\lang\util\ClassUtilsTest.java","assertEquals"
+"shiro","C:\JUnit5Projects\shiro\support\spring\src\test\java\org\apache\shiro\spring\web\config\ShiroWebConfigurationTestSameSiteStrict.java","Test"
+"shiro","C:\JUnit5Projects\shiro\support\spring\src\test\java\org\apache\shiro\spring\web\config\ShiroWebConfigurationTestSameSiteStrict.java","ExtendWith"
+"shiro","C:\JUnit5Projects\shiro\support\spring\src\test\java\org\apache\shiro\spring\web\config\ShiroWebConfigurationTestSameSiteStrict.java","assertEquals"

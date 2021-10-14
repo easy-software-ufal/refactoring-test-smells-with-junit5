@@ -1,0 +1,5 @@
+Project,Absolute Path,Feature
+"spring-data-examples","C:\JUnit5Projects\spring-data-examples\geode\transactions\src\test\java\example\springdata\geode\client\transactions\client\TransactionalClientTests.java","assertThrows"
+"spring-data-examples","C:\JUnit5Projects\spring-data-examples\mongodb\repository-metrics\src\test\java\example\springdata\mongodb\DemoApplicationTests.java","Test"
+"spring-data-examples","C:\JUnit5Projects\spring-data-examples\neo4j\example\src\test\java\example\springdata\neo4j\ActorRepositoryIntegrationTest.java","AfterAll"
+"spring-data-examples","C:\JUnit5Projects\spring-data-examples\neo4j\example\src\test\java\example\springdata\neo4j\ActorRepositoryIntegrationTest.java","Test"

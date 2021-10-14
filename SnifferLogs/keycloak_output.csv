@@ -1,0 +1,7 @@
+Project,Absolute Path,Feature
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\services\health\KeycloakNegativeHealthCheckTest.java","Test"
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\services\health\KeycloakNegativeHealthCheckTest.java","RegisterExtension"
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\services\health\KeycloakReadyHealthCheckTest.java","Test"
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\services\health\KeycloakReadyHealthCheckTest.java","RegisterExtension"
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\StartupTest.java","Test"
+"keycloak","C:\JUnit5Projects\keycloak\quarkus\deployment\src\test\java\test\org\keycloak\quarkus\StartupTest.java","RegisterExtension"

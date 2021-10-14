@@ -1,0 +1,11 @@
+Project,Absolute Path,Feature
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\ApplicationTests.java","api"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\ApplicationTests.java","Assertions"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\IOTests.java","api"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\IOTests.java","Assertions"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\ItemLiquidGeneratorTests.java","api"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\ItemLiquidGeneratorTests.java","Assertions"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\ItemLiquidGeneratorTests.java","dynamicTest"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\PowerTests.java","api"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\PowerTests.java","Assertions"
+"6.0Build121 Mindustry","C:\JUnit5Projects\6.0Build121 Mindustry\tests\src\test\java\power\PowerTests.java","dynamicTest"

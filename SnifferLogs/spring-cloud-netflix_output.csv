@@ -1,0 +1,7 @@
+Project,Absolute Path,Feature
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\config\EurekaConfigServerBootstrapConfigurationWebClientIntegrationTests.java","Test"
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\config\EurekaConfigServerBootstrapperTests.java","Test"
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\loadbalancer\EurekaLoadBalancerClientConfigurationTests.java","Test"
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\reactive\EurekaReactiveDiscoveryClientConfigurationTests.java","Test"
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\reactive\EurekaReactiveDiscoveryClientTests.java","Test"
+"spring-cloud-netflix","C:\JUnit5Projects\spring-cloud-netflix\spring-cloud-netflix-eureka-client\src\test\java\org\springframework\cloud\netflix\eureka\reactive\EurekaReactiveDiscoveryClientTests.java","ExtendWith"

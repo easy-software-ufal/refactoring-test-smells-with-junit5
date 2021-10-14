@@ -1,0 +1,10 @@
+Project,Absolute Path,Feature
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\simple\SimpleDockerJobRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\simple\SimpleLocalJobRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\simple\SimpleRunner.java","assertEquals"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\simple\SimpleRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\web\WebDockerJobRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\web\WebDockerRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\web\WebRunner.java","assertEquals"
+"karate","C:\JUnit5Projects\karate\examples\jobserver\src\test\java\jobtest\web\WebRunner.java","Test"
+"karate","C:\JUnit5Projects\karate\examples\ui-test\src\test\java\ui\MockRunner.java","Test"

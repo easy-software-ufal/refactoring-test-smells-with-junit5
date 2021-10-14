@@ -1,0 +1,5 @@
+Project,Absolute Path,Feature
+"hive","C:\JUnit5Projects\hive\standalone-metastore\metastore-tools\tools-common\src\test\java\org\apache\hadoop\hive\metastore\tools\HMSClientTest.java","AfterAll"
+"hive","C:\JUnit5Projects\hive\standalone-metastore\metastore-tools\tools-common\src\test\java\org\apache\hadoop\hive\metastore\tools\HMSClientTest.java","Assertions"
+"hive","C:\JUnit5Projects\hive\standalone-metastore\metastore-tools\tools-common\src\test\java\org\apache\hadoop\hive\metastore\tools\HMSClientTest.java","BeforeAll"
+"hive","C:\JUnit5Projects\hive\standalone-metastore\metastore-tools\tools-common\src\test\java\org\apache\hadoop\hive\metastore\tools\HMSClientTest.java","assertThrows"

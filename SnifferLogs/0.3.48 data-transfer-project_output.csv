@@ -1,0 +1,4 @@
+Project,Absolute Path,Feature
+"0.3.48 data-transfer-project","C:\JUnit5Projects\0.3.48 data-transfer-project\extensions\cloud\portability-cloud-google\src\test\java\org\datatransferproject\cloud\google\GoogleCloudModuleTest.java","assertThrows"
+"0.3.48 data-transfer-project","C:\JUnit5Projects\0.3.48 data-transfer-project\extensions\data-transfer\portability-data-transfer-flickr\src\test\java\org\datatransferproject\datatransfer\flickr\photos\FlickrPhotosExporterTest.java","assertThrows"
+"0.3.48 data-transfer-project","C:\JUnit5Projects\0.3.48 data-transfer-project\portability-transfer\src\test\java\org\datatransferproject\transfer\WorkerModuleTest.java","assertThrows"

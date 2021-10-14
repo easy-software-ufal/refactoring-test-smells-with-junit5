@@ -1,0 +1,5 @@
+Project,Absolute Path,Feature
+"2.2.1 soul","C:\JUnit5Projects\2.2.1 soul\soul-admin\src\test\java\org\dromara\soul\admin\config\SecretConfigurationTest.java","Assertions"
+"2.2.1 soul","C:\JUnit5Projects\2.2.1 soul\soul-admin\src\test\java\org\dromara\soul\admin\config\SecretPropertiesTest.java","Assertions"
+"2.2.1 soul","C:\JUnit5Projects\2.2.1 soul\soul-admin\src\test\java\org\dromara\soul\admin\service\EnumServiceTest.java","ParameterizedTest"
+"2.2.1 soul","C:\JUnit5Projects\2.2.1 soul\soul-admin\src\test\java\org\dromara\soul\admin\service\EnumServiceTest.java","MethodSource"
