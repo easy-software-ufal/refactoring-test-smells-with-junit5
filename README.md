@@ -1,6 +1,6 @@
 # Replication Package for the "Refactoring Test Smells With JUnit 5: Why Should Developers Keep Up-to-Date?" paper
 
-The list of projects that automate tests using JUnit 5 library can be found ih the file usedProjects.xls
+The list of projects that automate tests using JUnit 5 library can be found in the article. Further details are available in the projects.csv file.
 
 Considering that you have a project, or projects, already cloned to your machine, to find JUnit 5 features to a single project, use the following command line:
 ```java -jar sniffer.jar "path/to/project/root/directory"```
