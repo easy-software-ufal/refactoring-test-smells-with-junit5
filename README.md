@@ -8,7 +8,9 @@ Considering that you have a project, or projects, already cloned to your machine
 Should you execute the sniffer tool to several projects, then this is the command line:
 ```java -jar sniffer.jar -multipleProjects "path/to/projects/root/directory"```
 
-Our Sniffer logs are available in the SnifferLogs directory. You can also directly clone and use the tool from its repository, available at https://github.com/easy-software-ufal/JUnit5ImportsAnalyzer
+Or you can directly clone and use the tool from its repository, available at https://github.com/easy-software-ufal/JUnit5ImportsAnalyzer
+
+Our Sniffer logs are available in the SnifferLogs directory.
 
 tsDetect tool usage can be found at https://testsmells.org/pages/testsmelldetector.html
 
