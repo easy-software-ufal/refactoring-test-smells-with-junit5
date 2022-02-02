@@ -1,0 +1,39 @@
+Project,Class Path,Test Smell,PR Link,Result
+Aeron,\aeron-driver\src\test\java\io\aeron\driver\OptimalMulticastDelayGeneratorTest.java,Test Code Duplication,https://github.com/real-logic/aeron/pull/1168,Merged
+Cas,\api\cas-server-core-api-configuration-model\src\test\java\org\apereo\cas\configuration\support\RelaxedPropertyNamesTests.java,Duplicate Assert,https://github.com/apereo/cas/pull/5113,Submission Error
+Jenkins,\cli\src\test\java\hudson\cli\HexDumpTest.java,Duplicate Assert,https://github.com/jenkinsci/jenkins/pull/5376,Merged
+kafka,\clients\src\test\java\org\apache\kafka\common\requests\EnvelopeResponseTest.java,Conditional Test,https://github.com/apache/kafka/pull/10682,Accepted
+Seata,\common\src\test\java\io\seata\common\util\StringUtilsTest.java,Exception Handling,https://github.com/seata/seata/pull/3589,Merged
+Camel,\components\camel-google-drive\src\test\java\org\apache\camel\component\google\drive\DriveChangesIntegrationTest.java,Conditional Test,https://github.com/apache/camel/pull/5256,Merged
+Tutorials,\core-java-modules\core-java-io-2\src\test\java\com\baeldung\deletecontents\FilesClearDataUnitTest.java,Resource Optimism,https://github.com/eugenp/tutorials/pull/10789,Waiting Answer
+Quarkus,\core\deployment\src\test\java\io\quarkus\deployment\CapabilityNameTest.java,Assertion Roulette,https://github.com/quarkusio/quarkus/pull/15990,Merged
+MyBatisGenerator,\core\mybatis-generator-core\src\test\java\org\mybatis\generator\config\xml\PropertyParserTest.java,Test Code Duplication,https://github.com/mybatis/generator/pull/683,Merged
+Dropwizard,\dropwizard-assets\src\test\java\io\dropwizard\assets\AssetsBundleTest.java,Test Code Duplication,https://github.com/dropwizard/dropwizard/pull/3949,Waiting Answer
+Dubbo,\dubbo-common\src\test\java\org\apache\dubbo\common\utils\NetUtilsTest.java,Conditional Test,https://github.com/apache/dubbo/pull/7435,Merged
+Janusgraph,\janusgraph-backend-testutils\src\main\java\org\janusgraph\diskstorage\configuration\WritableConfigurationTest.java,Assertion Roulette,https://github.com/JanusGraph/janusgraph/pull/2460,Merged
+Javaparser,\javaparser-core-testing\src\test\java\com\github\javaparser\ast\NodeListTest.java,Conditional Test,https://github.com/javaparser/javaparser/pull/3274,Waiting Answer
+Jetty,\jetty-http\src\test\java\org\eclipse\jetty\http\SyntaxTest.java,Exception Handling,https://github.com/eclipse/jetty.project/pull/6133,Merged
+Jmeter,\jmeter\src\core\src\test\java\org\apache\jorphan\TestXMLBuffer.java,Exception Handling,https://github.com/apache/jmeter/pull/652,Accepted / Closed
+Jodd,\jodd-joy\src\test\java\jodd\joy\page\DbPagerTest.java,Duplicate Assert,https://github.com/oblac/jodd/pull/782,Merged
+Cryptomator,\main\commons\src\test\java\org\cryptomator\common\settings\VaultSettingsJsonAdapterTest.java,Assertion Roulette,https://github.com/cryptomator/cryptomator/pull/1596,Merged
+Flowable,\modules\flowable-engine\src\test\java\org\flowable\engine\test\api\runtime\ProcessInstanceCommentTest.java,Conditional Test,https://github.com/flowable/flowable-engine/pull/2926,Rejected
+java-design-patterns,\multiton\src\test\java\com\iluwatar\multiton\NazgulEnumTest.java,Conditional Test,https://github.com/iluwatar/java-design-patterns/pull/1698,Merged
+Mybatis-plus,\mybatis-plus\src\test\java\com\baomidou\mybatisplus\test\h2\H2UserTest.java,Conditional Test,https://github.com/baomidou/mybatis-plus/pull/3543,Merged
+Spring-boot-starter,\mybatis-spring-boot-autoconfigure\src\test\java\org\mybatis\spring\boot\autoconfigure\AdditionalConfigurationMetadataTest.java,Assertion Roulette,https://github.com/mybatis/spring-boot-starter/pull/546,Waiting Answer
+Okhttp,\okhttp\src\test\java\okhttp3\CacheControlTest.java,Exception Handling,https://github.com/square/okhttp/pull/6596,Accepted / Closed
+Opengrok,\opengrok-indexer\src\test\java\org\opengrok\indexer\index\IndexerTest.java,Conditional Test,https://github.com/oracle/opengrok/pull/3609,Merged
+Reactor core,\reactor-core\src\test\java\reactor\core\DisposablesTest.java,Conditional Test,https://github.com/reactor/reactor-core/pull/2710,Merged
+Sentinel,\sentinel-adapter\sentinel-quarkus-adapter\sentinel-annotation-quarkus-adapter-deployment\src\test\java\com\alibaba\csp\sentinel\adapter\quarkus\annotation\deployment\SentinelAnnotationQuarkusAdapterTest.java,Exception Handling,https://github.com/alibaba/Sentinel/pull/2116,Merged
+Simplify,\simplify\src\test\java\org\cf\simplify\ExecutionGraphManipulatorTest.java,Resource Optimism,https://github.com/CalebFenton/simplify/pull/160,Merged
+Spring-framework,\spring-beans\src\test\java\org\springframework\beans\ConcurrentBeanWrapperTests.java,Conditional Test,https://github.com/spring-projects/spring-framework/pull/26968,Merged
+Spring-boot-admin,\spring-boot-admin-client\src\test\java\de\codecentric\boot\admin\client\registration\CloudFoundryApplicationFactoryTest.java,Assertion Roulette,https://github.com/codecentric/spring-boot-admin/pull/1674,Merged
+Disruptor,\src\test\java\com\lmax\disruptor\FatalExceptionHandlerTest.java,Exception Handling,https://github.com/LMAX-Exchange/disruptor/pull/357,Accepted / Closed
+Checkstyle,\src\test\java\com\puppycrawl\tools\checkstyle\api\TokenTypesTest.java,Duplicate Assert,https://github.com/checkstyle/checkstyle/pull/9769,Accepted
+Lettuce-core,\src\test\java\io\lettuce\core\internal\HostAndPortUnitTests.java,Exception Handling,https://github.com/lettuce-io/lettuce-core/pull/1712,Accepted
+Mybatis,\src\test\java\org\apache\ibatis\parsing\GenericTokenParserTest.java,Conditional Test,https://github.com/mybatis/mybatis-3/pull/2219,Merged
+Jsoup,\src\test\java\org\jsoup\internal\StringUtilTest.java,Duplicate Assert,https://github.com/jhy/jsoup/pull/1505,Waiting Answer
+Spring-petclinic,\src\test\java\org\springframework\samples\petclinic\service\ClinicServiceTests.java,Assertion Roulette,https://github.com/spring-projects/spring-petclinic/pull/742,Accepted / Closed
+Halo,\src\test\java\run\halo\app\conf\AntPathMatcherTest.java,Assertion Roulette,https://github.com/halo-dev/halo/pull/1273,Merged
+Mindustry,\tests\src\test\java\IOTests.java,Duplicate Assert,https://github.com/Anuken/Mindustry/pull/5077,Merged
+Zaproxy,\zap\src\test\java\org\apache\commons\httpclient\HttpMethodBaseUnitTest.java,Duplicate Assert,https://github.com/zaproxy/zaproxy/pull/6612,Merged
+Zookeeper,\zookeeper-server\src\test\java\org\apache\zookeeper\common\AtomicFileWritingIdiomTest.java,Resource Optimism,https://github.com/apache/zookeeper/pull/1702,Merged
